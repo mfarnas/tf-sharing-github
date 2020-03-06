@@ -1,0 +1,1338 @@
+,DATASET,ID,PORO,PERM,GRAINSIZE,GRAINSIZE.1,EOD,EOD_NMT
+0,,,(%),(md),(mm),categ,,
+1,37.0,,6.6,0.09,,,Non-Dune Origin,NM
+2,37.0,,8.8,0.13,,,Non-Dune Origin,NM
+3,37.0,,7.4,0.09,,,Non-Dune Origin,NM
+4,37.0,,8.2,1.3,,,Non-Dune Origin,NM
+5,37.0,,6.8,0.12,,,Non-Dune Origin,NM
+6,37.0,,8.1,0.07,,,Non-Dune Origin,NM
+7,37.0,,8.7,0.06,,,Non-Dune Origin,NM
+8,37.0,,9,0.08,,,Non-Dune Origin,NM
+9,37.0,,8.5,0.07,,,Non-Dune Origin,NM
+10,37.0,,10.3,0.04,,,Non-Dune Origin,NM
+11,37.0,,8.6,0.05,,,Non-Dune Origin,NM
+12,37.0,,7.7,0.05,,,Non-Dune Origin,NM
+13,37.0,,7.5,0.06,,,Non-Dune Origin,NM
+14,37.0,,6.7,0.05,,,Non-Dune Origin,NM
+15,37.0,,5.5,0.04,,,Non-Dune Origin,NM
+16,37.0,,7.6,0.07,,,Non-Dune Origin,NM
+17,37.0,,7.9,0.05,,,Non-Dune Origin,NM
+18,37.0,,5.7,0.02,,,Non-Dune Origin,NM
+19,37.0,,6.5,0.02,,,Non-Dune Origin,NM
+20,37.0,,7.4,0.04,,,Non-Dune Origin,NM
+21,37.0,,8.1,0.06,,,Non-Dune Origin,NM
+22,37.0,,9.5,0.09,,,Non-Dune Origin,NM
+23,37.0,,9.9,0.12,,,Non-Dune Origin,NM
+24,37.0,,10.1,0.1,,,Non-Dune Origin,NM
+25,37.0,,6.1,0.03,,,Non-Dune Origin,NM
+26,37.0,,5.2,0.03,,,Non-Dune Origin,NM
+27,37.0,,4.2,0.06,,,Non-Dune Origin,NM
+28,37.0,,4.7,0.02,,,Non-Dune Origin,NM
+29,37.0,,7.2,0.04,,,Non-Dune Origin,NM
+30,37.0,,6.5,0.05,,,Non-Dune Origin,NM
+31,37.0,,6.2,0.06,,,Non-Dune Origin,NM
+32,37.0,,5.8,0.04,,,Non-Dune Origin,NM
+33,37.0,,7.8,0.06,,,Non-Dune Origin,NM
+34,37.0,,9.2,0.08,,,Non-Dune Origin,NM
+35,37.0,,10.9,0.16,,,Non-Dune Origin,NM
+36,37.0,,11.4,0.19,,,Non-Dune Origin,NM
+37,37.0,,11.8,0.16,,,Non-Dune Origin,NM
+38,37.0,,8.3,0.07,,,Non-Dune Origin,NM
+39,37.0,,9.4,0.05,,,Non-Dune Origin,NM
+40,37.0,,6.7,0.05,,,Non-Dune Origin,NM
+41,37.0,,9.1,0.29,,,Non-Dune Origin,NM
+42,37.0,,8.4,0.11,,,Non-Dune Origin,NM
+43,37.0,,6,0.04,,,Non-Dune Origin,NM
+44,37.0,,4.8,0.04,,,Non-Dune Origin,NM
+45,37.0,,3.9,0.02,,,Non-Dune Origin,NM
+46,37.0,,6.2,0.05,,,Dune and Dry Interdune Origin,NM
+47,37.0,,11.8,5.4,,,Dune and Dry Interdune Origin,NM
+48,37.0,,13.6,20,,,Dune and Dry Interdune Origin,NM
+49,37.0,,10.9,1.1,,,Dune and Dry Interdune Origin,NM
+50,37.0,,13.3,18,,,Dune and Dry Interdune Origin,NM
+51,37.0,,10.7,1.2,,,Dune and Dry Interdune Origin,NM
+52,37.0,,9.4,0.75,,,Dune and Dry Interdune Origin,NM
+53,37.0,,8.9,1.1,,,Dune and Dry Interdune Origin,NM
+54,37.0,,10.6,1.2,,,Dune and Dry Interdune Origin,NM
+55,37.0,,7.5,0.17,,,Dune and Dry Interdune Origin,NM
+56,37.0,,7.4,0.19,,,Dune and Dry Interdune Origin,NM
+57,37.0,,9.2,2.2,,,Dune and Dry Interdune Origin,NM
+58,37.0,,7.6,0.84,,,Dune and Dry Interdune Origin,NM
+59,37.0,,14.5,11,,,Dune and Dry Interdune Origin,NM
+60,37.0,,4.1,3.4,,,Dune and Dry Interdune Origin,NM
+61,37.0,,10,2.7,,,Dune and Dry Interdune Origin,NM
+62,37.0,,6.4,0.08,,,Dune and Dry Interdune Origin,NM
+63,37.0,,2.3,0.03,,,Non-Dune Origin,NM
+64,37.0,,5.9,0.06,,,Dune and Dry Interdune Origin,NM
+65,37.0,,5.1,0.08,,,Non-Dune Origin,NM
+66,37.0,,5.8,0.04,,,Non-Dune Origin,NM
+67,37.0,,7.8,0.17,,,Dune and Dry Interdune Origin,NM
+68,37.0,,7.8,0.13,,,Dune and Dry Interdune Origin,NM
+69,37.0,,8,0.29,,,Dune and Dry Interdune Origin,NM
+70,37.0,,7.8,0.17,,,Dune and Dry Interdune Origin,NM
+71,37.0,,12.8,9.9,,,Dune and Dry Interdune Origin,NM
+72,37.0,,12.8,5.5,,,Dune and Dry Interdune Origin,NM
+73,37.0,,13.3,15,,,Dune and Dry Interdune Origin,NM
+74,37.0,,12.1,9.3,,,Dune and Dry Interdune Origin,NM
+75,37.0,,12.2,9.6,,,Dune and Dry Interdune Origin,NM
+76,37.0,,9.1,0.55,,,Dune and Dry Interdune Origin,NM
+77,37.0,,10,0.26,,,Dune and Dry Interdune Origin,NM
+78,37.0,,8.7,0.28,,,Dune and Dry Interdune Origin,NM
+79,37.0,,5.4,0.13,,,Dune and Dry Interdune Origin,NM
+80,37.0,,4.8,0.2,,,Non-Dune Origin,NM
+81,37.0,,10.2,0.3,,,Dune and Dry Interdune Origin,NM
+82,37.0,,8.6,0.7,,,Dune and Dry Interdune Origin,NM
+83,37.0,,8.5,0.14,,,Dune and Dry Interdune Origin,NM
+84,37.0,,8.4,0.08,,,Dune and Dry Interdune Origin,NM
+85,37.0,,9,0.12,,,Dune and Dry Interdune Origin,NM
+86,37.0,,9.5,0.2,,,Dune and Dry Interdune Origin,NM
+87,37.0,,8,0.04,,,Dune and Dry Interdune Origin,NM
+88,37.0,,8.9,0.16,,,Dune and Dry Interdune Origin,NM
+89,37.0,,10,0.16,,,Dune and Dry Interdune Origin,NM
+90,37.0,,13.2,4.7,,,Dune and Dry Interdune Origin,NM
+91,37.0,,10.4,3.3,,,Dune and Dry Interdune Origin,NM
+92,37.0,,9.5,0.31,,,Dune and Dry Interdune Origin,NM
+93,37.0,,7.3,0.09,,,Dune and Dry Interdune Origin,NM
+94,37.0,,9.7,0.1,,,Dune and Dry Interdune Origin,NM
+95,37.0,,7.8,0.32,,,Dune and Dry Interdune Origin,NM
+96,37.0,,6.3,0.06,,,Dune and Dry Interdune Origin,NM
+97,37.0,,5.5,0.13,,,Dune and Dry Interdune Origin,NM
+98,37.0,,4.8,0.03,,,Dune and Dry Interdune Origin,NM
+99,37.0,,7.6,0.26,,,Dune and Dry Interdune Origin,NM
+100,37.0,,7.3,0.13,,,Dune and Dry Interdune Origin,NM
+101,37.0,,8.2,2.9,,,Dune and Dry Interdune Origin,NM
+102,37.0,,8.6,4.8,,,Dune and Dry Interdune Origin,NM
+103,37.0,,5.7,0.13,,,Dune and Dry Interdune Origin,NM
+104,37.0,,5.8,0.44,,,Dune and Dry Interdune Origin,NM
+105,37.0,,6.1,0.19,,,Dune and Dry Interdune Origin,NM
+106,37.0,,12,7.5,,,Dune and Dry Interdune Origin,NM
+107,37.0,,11.1,3.5,,,Dune and Dry Interdune Origin,NM
+108,37.0,,10.6,1.4,,,Dune and Dry Interdune Origin,NM
+109,37.0,,8.4,1.6,,,Dune and Dry Interdune Origin,NM
+110,37.0,,13.7,9.8,,,Dune and Dry Interdune Origin,NM
+111,37.0,,9.7,1.9,,,Dune and Dry Interdune Origin,NM
+112,37.0,,15.4,13,,,Dune and Dry Interdune Origin,NM
+113,37.0,,16.3,30,,,Dune and Dry Interdune Origin,NM
+114,37.0,,15.7,60,,,Dune and Dry Interdune Origin,NM
+115,37.0,,14.3,77,,,Dune and Dry Interdune Origin,NM
+116,37.0,,8.5,3,,,Dune and Dry Interdune Origin,NM
+117,37.0,,10.2,2,,,Dune and Dry Interdune Origin,NM
+118,37.0,,13.8,6.2,,,Dune and Dry Interdune Origin,NM
+119,37.0,,11.8,0.95,,,Dune and Dry Interdune Origin,NM
+120,37.0,,10.3,1,,,Dune and Dry Interdune Origin,NM
+121,37.0,,15,6.6,,,Dune and Dry Interdune Origin,NM
+122,37.0,,15.3,19,,,Dune and Dry Interdune Origin,NM
+123,37.0,,14.1,4.9,,,Dune and Dry Interdune Origin,NM
+124,37.0,,14.2,8.1,,,Dune and Dry Interdune Origin,NM
+125,37.0,,12.7,6.6,,,Dune and Dry Interdune Origin,NM
+126,37.0,,11.4,1.4,,,Dune and Dry Interdune Origin,NM
+127,37.0,,12,3.5,,,Dune and Dry Interdune Origin,NM
+128,37.0,,13.4,16,,,Dune and Dry Interdune Origin,NM
+129,37.0,,8.8,2.1,,,Dune and Dry Interdune Origin,NM
+130,37.0,,8.9,1.2,,,Dune and Dry Interdune Origin,NM
+131,37.0,,7.2,0.31,,,Dune and Dry Interdune Origin,NM
+132,37.0,,10.1,2.3,,,Dune and Dry Interdune Origin,NM
+133,37.0,,10.7,11,,,Dune and Dry Interdune Origin,NM
+134,37.0,,7.9,1.8,,,Dune and Dry Interdune Origin,NM
+135,37.0,,13.6,20,,,Dune and Dry Interdune Origin,NM
+136,37.0,,6,0.14,,,Dune and Dry Interdune Origin,NM
+137,37.0,,10.9,3.1,,,Dune and Dry Interdune Origin,NM
+138,37.0,,9.2,0.14,,,Dune and Dry Interdune Origin,NM
+139,37.0,,10.7,0.13,,,Dune and Dry Interdune Origin,NM
+140,37.0,,12.2,0.58,,,Dune and Dry Interdune Origin,NM
+141,37.0,,14.3,12,,,Dune and Dry Interdune Origin,NM
+142,37.0,,13.2,0.93,,,Dune and Dry Interdune Origin,NM
+143,37.0,,12.7,0.72,,,Dune and Dry Interdune Origin,NM
+144,37.0,,12.6,7.9,,,Dune and Dry Interdune Origin,NM
+145,37.0,,10,0.76,,,Dune and Dry Interdune Origin,NM
+146,37.0,,7.1,0.08,,,Dune and Dry Interdune Origin,NM
+147,37.0,,10.4,2.1,,,Dune and Dry Interdune Origin,NM
+148,37.0,,12.3,3.3,,,Dune and Dry Interdune Origin,NM
+149,37.0,,12.9,20,,,Dune and Dry Interdune Origin,NM
+150,37.0,,11.6,1.8,,,Dune and Dry Interdune Origin,NM
+151,37.0,,13.1,10,,,Dune and Dry Interdune Origin,NM
+152,37.0,,12.8,24,,,Dune and Dry Interdune Origin,NM
+153,37.0,,10.5,2.5,,,Dune and Dry Interdune Origin,NM
+154,37.0,,8.6,0.19,,,Non-Dune Origin,NM
+155,37.0,,10.1,0.69,,,Dune and Dry Interdune Origin,NM
+156,37.0,,8.3,0.53,,,Non-Dune Origin,NM
+157,37.0,,8.3,0.12,,,Dune and Dry Interdune Origin,NM
+158,37.0,,6.6,0.07,,,Non-Dune Origin,NM
+159,37.0,,13.2,1.9,,,Dune and Dry Interdune Origin,NM
+160,37.0,,12,1.7,,,Dune and Dry Interdune Origin,NM
+161,37.0,,15.8,1.5,,,Dune and Dry Interdune Origin,NM
+162,37.0,,15.3,2.2,,,Dune and Dry Interdune Origin,NM
+163,37.0,,16.9,7.8,,,Dune and Dry Interdune Origin,NM
+164,37.0,,15.2,1.9,,,Dune and Dry Interdune Origin,NM
+165,37.0,,10.4,0.3,,,Dune and Dry Interdune Origin,NM
+166,37.0,,6.3,0.06,,,Non-Dune Origin,NM
+167,37.0,,5.9,0.06,,,Non-Dune Origin,NM
+168,37.0,,8.6,0.1,,,Non-Dune Origin,NM
+169,37.0,,11.1,0.18,,,Non-Dune Origin,NM
+170,37.0,,9.5,0.11,,,Dune and Dry Interdune Origin,NM
+171,37.0,,14.7,1.7,,,Dune and Dry Interdune Origin,NM
+172,37.0,,13.4,1.8,,,Dune and Dry Interdune Origin,NM
+173,37.0,,11,1.9,,,Dune and Dry Interdune Origin,NM
+174,37.0,,14.6,1.3,,,Dune and Dry Interdune Origin,NM
+175,37.0,,15.9,4.3,,,Dune and Dry Interdune Origin,NM
+176,37.0,,16,7,,,Dune and Dry Interdune Origin,NM
+177,37.0,,15.5,7.1,,,Dune and Dry Interdune Origin,NM
+178,37.0,,15.6,6.1,,,Dune and Dry Interdune Origin,NM
+179,37.0,,8.5,0.29,,,Dune and Dry Interdune Origin,NM
+180,37.0,,7.9,0.13,,,Non-Dune Origin,NM
+181,37.0,,11.3,0.27,,,Non-Dune Origin,NM
+182,37.0,,13.8,1.1,,,Dune and Dry Interdune Origin,NM
+183,37.0,,12.2,0.2,,,Dune and Dry Interdune Origin,NM
+184,37.0,,12.3,0.41,,,Dune and Dry Interdune Origin,NM
+185,37.0,,11.5,0.58,,,Dune and Dry Interdune Origin,NM
+186,37.0,,10.2,0.2,,,Non-Dune Origin,NM
+187,37.0,,8.7,0.17,,,Non-Dune Origin,NM
+188,37.0,,12.4,0.29,,,Dune and Dry Interdune Origin,NM
+189,37.0,,13.3,0.91,,,Dune and Dry Interdune Origin,NM
+190,37.0,,13.8,7.3,,,Dune and Dry Interdune Origin,NM
+191,37.0,,12.8,1.1,,,Dune and Dry Interdune Origin,NM
+192,37.0,,11.5,0.68,,,Dune and Dry Interdune Origin,NM
+193,37.0,,13.5,0.62,,,Dune and Dry Interdune Origin,NM
+194,37.0,,13.7,0.54,,,Dune and Dry Interdune Origin,NM
+195,37.0,,15.6,4.5,,,Dune and Dry Interdune Origin,NM
+196,37.0,,15.1,0.93,,,Dune and Dry Interdune Origin,NM
+197,37.0,,5.6,0.09,,,Non-Dune Origin,NM
+198,37.0,,8.1,0.16,,,Non-Dune Origin,NM
+199,37.0,,4.2,0.05,,,Non-Dune Origin,NM
+200,37.0,,6,0.04,,,Non-Dune Origin,NM
+201,37.0,,8.3,0.08,,,Non-Dune Origin,NM
+202,37.0,,5.4,0.05,,,Non-Dune Origin,NM
+203,37.0,,5.1,0.04,,,Non-Dune Origin,NM
+204,37.0,,4.5,0.02,,,Non-Dune Origin,NM
+205,37.0,,5,0.04,,,Non-Dune Origin,NM
+206,37.0,,4.6,0.02,,,Non-Dune Origin,NM
+207,37.0,,9.7,0.12,,,Non-Dune Origin,NM
+208,37.0,,2.9,0.03,,,Non-Dune Origin,NM
+209,37.0,,5.7,0.04,,,Non-Dune Origin,NM
+210,37.0,,4.5,0.06,,,Non-Dune Origin,NM
+211,37.0,,4.6,0.04,,,Non-Dune Origin,NM
+212,37.0,,4.9,0.03,,,Non-Dune Origin,NM
+213,37.0,,3.2,0.02,,,Non-Dune Origin,NM
+214,37.0,,3.6,0.01,,,Non-Dune Origin,NM
+215,37.0,,3.9,0.04,,,Non-Dune Origin,NM
+216,37.0,,4,0.03,,,Non-Dune Origin,NM
+217,37.0,,4,0.03,,,Non-Dune Origin,NM
+218,37.0,,3.5,0.03,,,Non-Dune Origin,NM
+219,37.0,,4.5,0.03,,,Non-Dune Origin,NM
+220,37.0,,5.2,0.05,,,Non-Dune Origin,NM
+221,37.0,,5.7,0.07,,,Non-Dune Origin,NM
+222,37.0,,6.1,0.04,,,Non-Dune Origin,NM
+223,37.0,,6.7,0.05,,,Non-Dune Origin,NM
+224,37.0,,5.6,0.1,,,Non-Dune Origin,NM
+225,37.0,,9,0.09,,,Non-Dune Origin,NM
+226,37.0,,8.4,0.13,,,Non-Dune Origin,NM
+227,37.0,,8.4,0.1,,,Non-Dune Origin,NM
+228,37.0,,6.2,0.04,,,Non-Dune Origin,NM
+229,37.0,,9.4,0.06,,,Non-Dune Origin,NM
+230,37.0,,9.8,0.73,,,Non-Dune Origin,NM
+231,37.0,,9.1,0.16,,,Non-Dune Origin,NM
+232,37.0,,7.8,0.12,,,Non-Dune Origin,NM
+233,37.0,,6.7,0.13,,,Non-Dune Origin,NM
+234,37.0,,6.8,0.05,,,Non-Dune Origin,NM
+235,37.0,,6.3,0.04,,,Non-Dune Origin,NM
+236,37.0,,5.3,0.03,,,Non-Dune Origin,NM
+237,37.0,,5.6,0.04,,,Non-Dune Origin,NM
+238,37.0,,5.8,0.02,,,Non-Dune Origin,NM
+239,37.0,,6.3,0.03,,,Non-Dune Origin,NM
+240,37.0,,6.6,0.03,,,Non-Dune Origin,NM
+241,37.0,,5.3,0.05,,,Non-Dune Origin,NM
+242,37.0,,6.2,0.05,,,Non-Dune Origin,NM
+243,37.0,,3,0.02,,,Non-Dune Origin,NM
+244,37.0,,5.3,0.05,,,Non-Dune Origin,NM
+245,37.0,,4.5,0.03,,,Non-Dune Origin,NM
+246,37.0,,7.3,0.03,,,Non-Dune Origin,NM
+247,37.0,,7.4,0.05,,,Non-Dune Origin,NM
+248,37.0,,9.1,0.06,,,Non-Dune Origin,NM
+249,37.0,,11.4,0.16,,,Non-Dune Origin,NM
+250,37.0,,5.2,0.01,,,Non-Dune Origin,NM
+251,37.0,,5.5,0.02,,,Non-Dune Origin,NM
+252,37.0,,5.9,0.03,,,Non-Dune Origin,NM
+253,37.0,,7.8,0.05,,,Non-Dune Origin,NM
+254,37.0,,9.7,0.11,,,Non-Dune Origin,NM
+255,37.0,,10.6,0.22,,,Non-Dune Origin,NM
+256,37.0,,10.7,0.1,,,Non-Dune Origin,NM
+257,37.0,,7.7,0.03,,,Non-Dune Origin,NM
+258,37.0,,10.3,0.06,,,Non-Dune Origin,NM
+259,37.0,,6.8,0.04,,,Non-Dune Origin,NM
+260,37.0,,6.2,0.02,,,Non-Dune Origin,NM
+261,37.0,,7.3,0.02,,,Non-Dune Origin,NM
+262,37.0,,5.1,0.02,,,Non-Dune Origin,NM
+263,37.0,,6.4,0.01,,,Non-Dune Origin,NM
+264,37.0,,6.7,0.02,,,Non-Dune Origin,NM
+265,37.0,,8.3,0.04,,,Non-Dune Origin,NM
+266,37.0,,7.2,0.05,,,Non-Dune Origin,NM
+267,37.0,,8,0.06,,,Non-Dune Origin,NM
+268,37.0,,9.4,0.06,,,Non-Dune Origin,NM
+269,37.0,,7.3,0.04,,,Non-Dune Origin,NM
+270,37.0,,7,0.03,,,Non-Dune Origin,NM
+271,37.0,,7.8,0.06,,,Non-Dune Origin,NM
+272,37.0,,7.1,0.03,,,Non-Dune Origin,NM
+273,37.0,,5.9,0.02,,,Non-Dune Origin,NM
+274,37.0,,5.3,0.05,,,Non-Dune Origin,NM
+275,37.0,,2.5,0.02,,,Non-Dune Origin,NM
+276,37.0,,10.5,2.5,,,Non-Dune Origin,NM
+277,37.0,,11.2,0.57,,,Non-Dune Origin,NM
+278,37.0,,5.9,0.17,,,Non-Dune Origin,NM
+279,37.0,,9,1.3,,,Dune and Dry Interdune Origin,NM
+280,37.0,,15.5,12,,,Dune and Dry Interdune Origin,NM
+281,37.0,,15.5,6.9,,,Dune and Dry Interdune Origin,NM
+282,37.0,,13.1,6.4,,,Dune and Dry Interdune Origin,NM
+283,37.0,,14.1,13,,,Dune and Dry Interdune Origin,NM
+284,37.0,,13.9,4.9,,,Dune and Dry Interdune Origin,NM
+285,37.0,,15.7,8.5,,,Dune and Dry Interdune Origin,NM
+286,37.0,,10.4,2.1,,,Dune and Dry Interdune Origin,NM
+287,37.0,,12.1,4,,,Dune and Dry Interdune Origin,NM
+288,37.0,,13.9,11,,,Dune and Dry Interdune Origin,NM
+289,37.0,,14.5,18,,,Dune and Dry Interdune Origin,NM
+290,37.0,,9.3,1.9,,,Dune and Dry Interdune Origin,NM
+291,37.0,,6.9,1,,,Dune and Dry Interdune Origin,NM
+292,37.0,,13.6,19,,,Dune and Dry Interdune Origin,NM
+293,37.0,,15,103,,,Dune and Dry Interdune Origin,NM
+294,37.0,,5.2,0.06,,,Dune and Dry Interdune Origin,NM
+295,37.0,,8.1,0.16,,,Dune and Dry Interdune Origin,NM
+296,37.0,,7.9,0.09,,,Dune and Dry Interdune Origin,NM
+297,37.0,,7.5,0.04,,,Dune and Dry Interdune Origin,NM
+298,37.0,,8.8,0.22,,,Dune and Dry Interdune Origin,NM
+299,37.0,,9.9,0.18,,,Dune and Dry Interdune Origin,NM
+300,37.0,,10,0.89,,,Dune and Dry Interdune Origin,NM
+301,37.0,,11.6,1.9,,,Dune and Dry Interdune Origin,NM
+302,37.0,,14.5,139,,,Dune and Dry Interdune Origin,NM
+303,37.0,,16.4,61,,,Dune and Dry Interdune Origin,NM
+304,37.0,,16.8,117,,,Dune and Dry Interdune Origin,NM
+305,37.0,,17,175,,,Dune and Dry Interdune Origin,NM
+306,37.0,,11,1.8,,,Dune and Dry Interdune Origin,NM
+307,37.0,,14.9,115,,,Dune and Dry Interdune Origin,NM
+308,37.0,,6.7,1.59,,,Dune and Dry Interdune Origin,NM
+309,37.0,,3.9,0.03,,,Dune and Dry Interdune Origin,NM
+310,37.0,,6.7,0.08,,,Dune and Dry Interdune Origin,NM
+311,37.0,,6.1,0.08,,,Dune and Dry Interdune Origin,NM
+312,37.0,,15.1,12,,,Dune and Dry Interdune Origin,NM
+313,37.0,,8.6,0.07,,,Dune and Dry Interdune Origin,NM
+314,37.0,,10.4,0.19,,,Dune and Dry Interdune Origin,NM
+315,37.0,,11.2,0.64,,,Dune and Dry Interdune Origin,NM
+316,37.0,,9.5,0.49,,,Dune and Dry Interdune Origin,NM
+317,37.0,,10.5,0.58,,,Dune and Dry Interdune Origin,NM
+318,37.0,,9.7,0.71,,,Dune and Dry Interdune Origin,NM
+319,37.0,,10.4,0.53,,,Dune and Dry Interdune Origin,NM
+320,37.0,,10.6,1.1,,,Dune and Dry Interdune Origin,NM
+321,37.0,,10.5,1.53,,,Dune and Dry Interdune Origin,NM
+322,37.0,,7.5,0.1,,,Dune and Dry Interdune Origin,NM
+323,37.0,,7.4,0.89,,,Dune and Dry Interdune Origin,NM
+324,37.0,,6,0.08,,,Dune and Dry Interdune Origin,NM
+325,37.0,,7.9,0.15,,,Dune and Dry Interdune Origin,NM
+326,37.0,,8.3,0.14,,,Dune and Dry Interdune Origin,NM
+327,37.0,,11.1,1.3,,,Dune and Dry Interdune Origin,NM
+328,37.0,,9.4,3.6,,,Dune and Dry Interdune Origin,NM
+329,37.0,,10.9,16,,,Dune and Dry Interdune Origin,NM
+330,37.0,,8.1,0.57,,,Dune and Dry Interdune Origin,NM
+331,37.0,,7.1,0.22,,,Dune and Dry Interdune Origin,NM
+332,37.0,,10.1,0.73,,,Dune and Dry Interdune Origin,NM
+333,37.0,,2.3,0.02,,,Dune and Dry Interdune Origin,NM
+334,37.0,,8.1,0.14,,,Dune and Dry Interdune Origin,NM
+335,37.0,,6.3,0.06,,,Dune and Dry Interdune Origin,NM
+336,37.0,,15.4,1.4,,,Dune and Dry Interdune Origin,NM
+337,37.0,,16.7,6.2,,,Dune and Dry Interdune Origin,NM
+338,37.0,,16.6,8.7,,,Dune and Dry Interdune Origin,NM
+339,37.0,,17.2,11,,,Dune and Dry Interdune Origin,NM
+340,37.0,,17.2,9.4,,,Dune and Dry Interdune Origin,NM
+341,37.0,,14.6,57,,,Dune and Dry Interdune Origin,NM
+342,37.0,,16.1,260,,,Dune and Dry Interdune Origin,NM
+343,37.0,,11.1,1,,,Dune and Dry Interdune Origin,NM
+344,37.0,,15.2,2.6,,,Dune and Dry Interdune Origin,NM
+345,37.0,,18.8,18,,,Dune and Dry Interdune Origin,NM
+346,37.0,,13.1,2.5,,,Dune and Dry Interdune Origin,NM
+347,37.0,,16.7,23,,,Dune and Dry Interdune Origin,NM
+348,37.0,,16.9,12,,,Dune and Dry Interdune Origin,NM
+349,37.0,,13.7,9.08,,,Dune and Dry Interdune Origin,NM
+350,37.0,,14.5,5.9,,,Dune and Dry Interdune Origin,NM
+351,37.0,,14.7,0.01,,,Dune and Dry Interdune Origin,NM
+352,37.0,,15.2,18,,,Dune and Dry Interdune Origin,NM
+353,37.0,,15.2,10,,,Dune and Dry Interdune Origin,NM
+354,37.0,,18,160,,,Dune and Dry Interdune Origin,NM
+355,37.0,,17.8,451,,,Dune and Dry Interdune Origin,NM
+356,37.0,,16.9,701,,,Dune and Dry Interdune Origin,NM
+357,37.0,,11.6,32,,,Dune and Dry Interdune Origin,NM
+358,37.0,,11.7,0.43,,,Dune and Dry Interdune Origin,NM
+359,37.0,,13.7,2.7,,,Dune and Dry Interdune Origin,NM
+360,37.0,,13.9,7.9,,,Dune and Dry Interdune Origin,NM
+361,37.0,,12.5,5.6,,,Dune and Dry Interdune Origin,NM
+362,37.0,,11.7,0.44,,,Dune and Dry Interdune Origin,NM
+363,37.0,,14,17,,,Dune and Dry Interdune Origin,NM
+364,37.0,,13.7,7,,,Dune and Dry Interdune Origin,NM
+365,37.0,,13.8,5.7,,,Dune and Dry Interdune Origin,NM
+366,37.0,,13.7,3.2,,,Dune and Dry Interdune Origin,NM
+367,37.0,,12.1,4.3,,,Dune and Dry Interdune Origin,NM
+368,37.0,,11.3,7.2,,,Dune and Dry Interdune Origin,NM
+369,37.0,,6.8,0.16,,,Dune and Dry Interdune Origin,NM
+370,37.0,,7.5,0.41,,,Dune and Dry Interdune Origin,NM
+371,37.0,,9.2,1,,,Dune and Dry Interdune Origin,NM
+372,37.0,,13.5,3.1,,,Dune and Dry Interdune Origin,NM
+373,37.0,,12.1,3.1,,,Dune and Dry Interdune Origin,NM
+374,37.0,,13.9,1.3,,,Dune and Dry Interdune Origin,NM
+375,37.0,,9.9,2.9,,,Dune and Dry Interdune Origin,NM
+376,37.0,,11.4,3.5,,,Dune and Dry Interdune Origin,NM
+377,37.0,,13.1,5,,,Dune and Dry Interdune Origin,NM
+378,37.0,,12.6,2.6,,,Dune and Dry Interdune Origin,NM
+379,37.0,,8.9,0.62,,,Dune and Dry Interdune Origin,NM
+380,37.0,,14.4,2.9,,,Dune and Dry Interdune Origin,NM
+381,37.0,,12.6,0.38,,,Dune and Dry Interdune Origin,NM
+382,37.0,,8.8,1.3,,,Dune and Dry Interdune Origin,NM
+383,37.0,,6.8,0.15,,,Dune and Dry Interdune Origin,NM
+384,37.0,,6,0.11,,,Dune and Dry Interdune Origin,NM
+385,37.0,,10.5,0.18,,,Dune and Dry Interdune Origin,NM
+386,37.0,,7.5,0.15,,,Dune and Dry Interdune Origin,NM
+387,37.0,,7.9,0.12,,,Dune and Dry Interdune Origin,NM
+388,37.0,,7.7,0.11,,,Dune and Dry Interdune Origin,NM
+389,37.0,,13.4,2.6,,,Dune and Dry Interdune Origin,NM
+390,37.0,,15,25,,,Dune and Dry Interdune Origin,NM
+391,37.0,,15.8,7.7,,,Dune and Dry Interdune Origin,NM
+392,37.0,,13.5,2.9,,,Dune and Dry Interdune Origin,NM
+393,37.0,,9.4,0.44,,,Dune and Dry Interdune Origin,NM
+394,37.0,,15.7,1.1,,,Dune and Dry Interdune Origin,NM
+395,37.0,,18,14,,,Dune and Dry Interdune Origin,NM
+396,37.0,,15.2,3.4,,,Dune and Dry Interdune Origin,NM
+397,37.0,,10.6,1.1,,,Dune and Dry Interdune Origin,NM
+398,37.0,,14.3,1.5,,,Dune and Dry Interdune Origin,NM
+399,37.0,,10.1,0.19,,,Dune and Dry Interdune Origin,NM
+400,37.0,,10.7,0.11,,,Dune and Dry Interdune Origin,NM
+401,37.0,,10.4,0.17,,,Dune and Dry Interdune Origin,NM
+402,37.0,,13,0.86,,,Dune and Dry Interdune Origin,NM
+403,37.0,,12.6,0.7,,,Dune and Dry Interdune Origin,NM
+404,37.0,,10.5,0.09,,,Dune and Dry Interdune Origin,NM
+405,37.0,,9.1,0.08,,,Dune and Dry Interdune Origin,NM
+406,37.0,,10.1,0.14,,,Dune and Dry Interdune Origin,NM
+407,37.0,,10.1,0.51,,,Dune and Dry Interdune Origin,NM
+408,37.0,,10,0.12,,,Dune and Dry Interdune Origin,NM
+409,37.0,,11.6,0.13,,,Dune and Dry Interdune Origin,NM
+410,37.0,,12,0.35,,,Dune and Dry Interdune Origin,NM
+411,37.0,,10.7,0.61,,,Dune and Dry Interdune Origin,NM
+412,37.0,,12.8,0.37,,,Dune and Dry Interdune Origin,NM
+413,37.0,,11.4,0.18,,,Dune and Dry Interdune Origin,NM
+414,37.0,,12.9,0.57,,,Dune and Dry Interdune Origin,NM
+415,37.0,,13.3,0.75,,,Dune and Dry Interdune Origin,NM
+416,37.0,,13.5,0.64,,,Dune and Dry Interdune Origin,NM
+417,37.0,,14.6,1,,,Dune and Dry Interdune Origin,NM
+418,37.0,,9.9,0.29,,,Dune and Dry Interdune Origin,NM
+419,37.0,,9.9,0.1,,,Dune and Dry Interdune Origin,NM
+420,37.0,,11.3,0.19,,,Dune and Dry Interdune Origin,NM
+421,37.0,,10.8,0.12,,,Dune and Dry Interdune Origin,NM
+422,37.0,,10.6,0.15,,,Dune and Dry Interdune Origin,NM
+423,37.0,,7,0.08,,,Dune and Dry Interdune Origin,NM
+424,37.0,,5.1,0.03,,,Dune and Dry Interdune Origin,NM
+425,37.0,,6.4,0.03,,,Non-Dune Origin,NM
+426,37.0,,8.5,0.05,,,Dune and Dry Interdune Origin,NM
+427,37.0,,3.1,0.05,,,Non-Dune Origin,NM
+428,37.0,,10.4,0.1,,,Dune and Dry Interdune Origin,NM
+429,37.0,,8.3,0.04,,,Dune and Dry Interdune Origin,NM
+430,37.0,,6.1,0.01,,,Dune and Dry Interdune Origin,NM
+431,37.0,,7.5,0.07,,,Dune and Dry Interdune Origin,NM
+432,37.0,,6.4,0.04,,,Dune and Dry Interdune Origin,NM
+433,37.0,,7.5,0.06,,,Dune and Dry Interdune Origin,NM
+434,37.0,,8.3,0.04,,,Dune and Dry Interdune Origin,NM
+435,37.0,,8.4,0.13,,,Dune and Dry Interdune Origin,NM
+436,37.0,,5.9,0.03,,,Dune and Dry Interdune Origin,NM
+437,37.0,,6.5,0.03,,,Dune and Dry Interdune Origin,NM
+438,37.0,,6.5,0.03,,,Dune and Dry Interdune Origin,NM
+439,37.0,,5.9,0.03,,,Dune and Dry Interdune Origin,NM
+440,37.0,,4.2,0.01,,,Dune and Dry Interdune Origin,NM
+441,37.0,,5.3,0.02,,,Non-Dune Origin,NM
+442,37.0,,6.1,0.03,,,Non-Dune Origin,NM
+443,37.0,,5.7,0.02,,,Non-Dune Origin,NM
+444,37.0,,8.2,0.04,,,Dune and Dry Interdune Origin,NM
+445,37.0,,7.8,0.05,,,Dune and Dry Interdune Origin,NM
+446,37.0,,8.3,0.05,,,Dune and Dry Interdune Origin,NM
+447,37.0,,8.1,0.08,,,Dune and Dry Interdune Origin,NM
+448,37.0,,6.2,0.02,,,Dune and Dry Interdune Origin,NM
+449,37.0,,5.9,0.02,,,Non-Dune Origin,NM
+450,37.0,,5.8,0.02,,,Non-Dune Origin,NM
+451,37.0,,6,0.06,,,Dune and Dry Interdune Origin,NM
+452,37.0,,7.5,0.03,,,Dune and Dry Interdune Origin,NM
+453,37.0,,9.8,0.1,,,Dune and Dry Interdune Origin,NM
+454,37.0,,6.2,0.03,,,Dune and Dry Interdune Origin,NM
+455,37.0,,9.7,0.05,,,Dune and Dry Interdune Origin,NM
+456,37.0,,8.6,0.05,,,Dune and Dry Interdune Origin,NM
+457,37.0,,9.8,0.07,,,Dune and Dry Interdune Origin,NM
+458,37.0,,9.8,0.06,,,Dune and Dry Interdune Origin,NM
+459,37.0,,10.2,0.07,,,Dune and Dry Interdune Origin,NM
+460,37.0,,9.1,0.06,,,Dune and Dry Interdune Origin,NM
+461,37.0,,11,0.11,,,Dune and Dry Interdune Origin,NM
+462,37.0,,9.6,0.08,,,Dune and Dry Interdune Origin,NM
+463,37.0,,11.6,0.09,,,Dune and Dry Interdune Origin,NM
+464,37.0,,10.3,0.05,,,Dune and Dry Interdune Origin,NM
+465,37.0,,9.1,0.06,,,Dune and Dry Interdune Origin,NM
+466,37.0,,8,0.03,,,Dune and Dry Interdune Origin,NM
+467,37.0,,10.3,0.08,,,Dune and Dry Interdune Origin,NM
+468,37.0,,9.7,0.06,,,Dune and Dry Interdune Origin,NM
+469,37.0,,10.4,0.08,,,Dune and Dry Interdune Origin,NM
+470,37.0,,11.3,0.11,,,Dune and Dry Interdune Origin,NM
+471,37.0,,11,0.09,,,Dune and Dry Interdune Origin,NM
+472,37.0,,5.4,0.02,,,Non-Dune Origin,NM
+473,37.0,,4.9,0.02,,,Non-Dune Origin,NM
+474,37.0,,6,0.02,,,Non-Dune Origin,NM
+475,37.0,,8.3,0.05,,,Dune and Dry Interdune Origin,NM
+476,37.0,,7.7,0.05,,,Dune and Dry Interdune Origin,NM
+477,37.0,,8.6,0.05,,,Dune and Dry Interdune Origin,NM
+478,37.0,,8.6,0.05,,,Non-Dune Origin,NM
+479,37.0,,9.3,0.07,,,Dune and Dry Interdune Origin,NM
+480,37.0,,8,0.04,,,Dune and Dry Interdune Origin,NM
+481,37.0,,5.9,0.02,,,Dune and Dry Interdune Origin,NM
+482,37.0,,12.7,0.56,,,Dune and Dry Interdune Origin,NM
+483,37.0,,10.2,0.08,,,Dune and Dry Interdune Origin,NM
+484,37.0,,7.6,0.06,,,Dune and Dry Interdune Origin,NM
+485,37.0,,9.1,0.06,,,Dune and Dry Interdune Origin,NM
+486,37.0,,15.3,28,,,Dune and Dry Interdune Origin,NM
+487,37.0,,16.5,50,,,Dune and Dry Interdune Origin,NM
+488,37.0,,16.6,66,,,Dune and Dry Interdune Origin,NM
+489,37.0,,13.9,17,,,Dune and Dry Interdune Origin,NM
+490,37.0,,16.6,334,,,Dune and Dry Interdune Origin,NM
+491,37.0,,16.3,91,,,Dune and Dry Interdune Origin,NM
+492,37.0,,11.5,18,,,Dune and Dry Interdune Origin,NM
+493,37.0,,11.4,8.3,,,Dune and Dry Interdune Origin,NM
+494,37.0,,9.9,3,,,Dune and Dry Interdune Origin,NM
+495,37.0,,10.1,0.3,,,Dune and Dry Interdune Origin,NM
+496,37.0,,11.1,0.43,,,Dune and Dry Interdune Origin,NM
+497,37.0,,10.9,1.7,,,Dune and Dry Interdune Origin,NM
+498,37.0,,8.2,0.15,,,Dune and Dry Interdune Origin,NM
+499,37.0,,12.1,0.15,,,Dune and Dry Interdune Origin,NM
+500,37.0,,11.7,0.33,,,Dune and Dry Interdune Origin,NM
+501,37.0,,11.8,1.8,,,Dune and Dry Interdune Origin,NM
+502,37.0,,10.6,0.2,,,Dune and Dry Interdune Origin,NM
+503,37.0,,8.7,0.93,,,Dune and Dry Interdune Origin,NM
+504,37.0,,13.1,7,,,Dune and Dry Interdune Origin,NM
+505,37.0,,2.4,0.04,,,Dune and Dry Interdune Origin,NM
+506,37.0,,12.2,4.6,,,Dune and Dry Interdune Origin,NM
+507,37.0,,14.9,130,,,Dune and Dry Interdune Origin,NM
+508,37.0,,9,7.2,,,Dune and Dry Interdune Origin,NM
+509,37.0,,14.1,2.7,,,Dune and Dry Interdune Origin,NM
+510,37.0,,12.3,1.9,,,Dune and Dry Interdune Origin,NM
+511,37.0,,7.7,0.07,,,Dune and Dry Interdune Origin,NM
+512,37.0,,7.7,0.08,,,Dune and Dry Interdune Origin,NM
+513,37.0,,6.9,0.08,,,Dune and Dry Interdune Origin,NM
+514,37.0,,6.3,0.07,,,Dune and Dry Interdune Origin,NM
+515,37.0,,11,0.35,,,Dune and Dry Interdune Origin,NM
+516,37.0,,13,3.3,,,Dune and Dry Interdune Origin,NM
+517,37.0,,12.8,1.9,,,Dune and Dry Interdune Origin,NM
+518,37.0,,10.4,0.37,,,Dune and Dry Interdune Origin,NM
+519,37.0,,12.2,0.82,,,Dune and Dry Interdune Origin,NM
+520,37.0,,13.9,2.9,,,Dune and Dry Interdune Origin,NM
+521,37.0,,14,2.5,,,Dune and Dry Interdune Origin,NM
+522,37.0,,13.9,2.4,,,Dune and Dry Interdune Origin,NM
+523,37.0,,11.3,2,,,Dune and Dry Interdune Origin,NM
+524,37.0,,7.3,0.07,,,Dune and Dry Interdune Origin,NM
+525,37.0,,8.1,0.06,,,Dune and Dry Interdune Origin,NM
+526,37.0,,9.4,0.07,,,Dune and Dry Interdune Origin,NM
+527,37.0,,9.3,0.11,,,Dune and Dry Interdune Origin,NM
+528,37.0,,8.4,0.11,,,Dune and Dry Interdune Origin,NM
+529,37.0,,8,0.1,,,Dune and Dry Interdune Origin,NM
+530,37.0,,8.1,0.1,,,Dune and Dry Interdune Origin,NM
+531,37.0,,8,0.13,,,Dune and Dry Interdune Origin,NM
+532,37.0,,9.7,0.69,,,Dune and Dry Interdune Origin,NM
+533,37.0,,12.7,3.4,,,Dune and Dry Interdune Origin,NM
+534,37.0,,7,0.14,,,Dune and Dry Interdune Origin,NM
+535,37.0,,10,0.14,,,Dune and Dry Interdune Origin,NM
+536,37.0,,8.4,0.11,,,Dune and Dry Interdune Origin,NM
+537,37.0,,11.2,0.53,,,Dune and Dry Interdune Origin,NM
+538,37.0,,10.2,0.42,,,Dune and Dry Interdune Origin,NM
+539,37.0,,10.3,0.41,,,Dune and Dry Interdune Origin,NM
+540,37.0,,7.4,0.1,,,Dune and Dry Interdune Origin,NM
+541,37.0,,9.4,0.2,,,Dune and Dry Interdune Origin,NM
+542,37.0,,7.9,0.22,,,Dune and Dry Interdune Origin,NM
+543,37.0,,10.8,1.5,,,Dune and Dry Interdune Origin,NM
+544,37.0,,9.1,0.22,,,Dune and Dry Interdune Origin,NM
+545,37.0,,6.8,0.04,,,Dune and Dry Interdune Origin,NM
+546,37.0,,4.8,0.05,,,Dune and Dry Interdune Origin,NM
+547,37.0,,9,0.76,,,Dune and Dry Interdune Origin,NM
+548,37.0,,10,0.2,,,Dune and Dry Interdune Origin,NM
+549,37.0,,8.1,0.11,,,Dune and Dry Interdune Origin,NM
+550,37.0,,5.3,0.08,,,Dune and Dry Interdune Origin,NM
+551,37.0,,6.2,0.07,,,Dune and Dry Interdune Origin,NM
+552,37.0,,13,3.6,,,Dune and Dry Interdune Origin,NM
+553,37.0,,7.9,0.74,,,Dune and Dry Interdune Origin,NM
+554,37.0,,16.8,9.2,,,Dune and Dry Interdune Origin,NM
+555,37.0,,18.2,16,,,Dune and Dry Interdune Origin,NM
+556,37.0,,17.8,13,,,Dune and Dry Interdune Origin,NM
+557,37.0,,18.1,56,,,Dune and Dry Interdune Origin,NM
+558,37.0,,14.9,26,,,Dune and Dry Interdune Origin,NM
+559,37.0,,15.3,6.3,,,Dune and Dry Interdune Origin,NM
+560,37.0,,17.9,108,,,Dune and Dry Interdune Origin,NM
+561,37.0,,10.1,2.7,,,Dune and Dry Interdune Origin,NM
+562,37.0,,11.5,3.4,,,Dune and Dry Interdune Origin,NM
+563,37.0,,7.2,0.96,,,Dune and Dry Interdune Origin,NM
+564,37.0,,6.8,0.21,,,Dune and Dry Interdune Origin,NM
+565,37.0,,13.5,3.5,,,Dune and Dry Interdune Origin,NM
+566,37.0,,17.2,6.9,,,Dune and Dry Interdune Origin,NM
+567,37.0,,15.4,3.3,,,Dune and Dry Interdune Origin,NM
+568,37.0,,16.9,12,,,Dune and Dry Interdune Origin,NM
+569,37.0,,16.4,8.3,,,Dune and Dry Interdune Origin,NM
+570,37.0,,15.8,7.5,,,Dune and Dry Interdune Origin,NM
+571,37.0,,12.3,4.1,,,Dune and Dry Interdune Origin,NM
+572,37.0,,12,12,,,Dune and Dry Interdune Origin,NM
+573,37.0,,4.6,0.1,,,Dune and Dry Interdune Origin,NM
+574,37.0,,12.9,8.5,,,Dune and Dry Interdune Origin,NM
+575,37.0,,16.2,46,,,Dune and Dry Interdune Origin,NM
+576,37.0,,5.3,0.07,,,Dune and Dry Interdune Origin,NM
+577,37.0,,8.3,0.28,,,Dune and Dry Interdune Origin,NM
+578,37.0,,9.1,0.97,,,Dune and Dry Interdune Origin,NM
+579,37.0,,5.4,0.11,,,Dune and Dry Interdune Origin,NM
+580,37.0,,11.8,2.3,,,Dune and Dry Interdune Origin,NM
+581,37.0,,11.8,0.18,,,Dune and Dry Interdune Origin,NM
+582,37.0,,10.6,0.13,,,Dune and Dry Interdune Origin,NM
+583,37.0,,11.1,0.18,,,Dune and Dry Interdune Origin,NM
+584,37.0,,13.1,0.57,,,Dune and Dry Interdune Origin,NM
+585,37.0,,13.4,0.73,,,Dune and Dry Interdune Origin,NM
+586,37.0,,13,2.6,,,Dune and Dry Interdune Origin,NM
+587,37.0,,11.1,0.18,,,Dune and Dry Interdune Origin,NM
+588,37.0,,13.4,0.3,,,Dune and Dry Interdune Origin,NM
+589,37.0,,14.1,2.6,,,Dune and Dry Interdune Origin,NM
+590,37.0,,13.9,5.3,,,Dune and Dry Interdune Origin,NM
+591,37.0,,14.6,3.1,,,Dune and Dry Interdune Origin,NM
+592,37.0,,12.6,0.84,,,Dune and Dry Interdune Origin,NM
+593,37.0,,12.6,3,,,Dune and Dry Interdune Origin,NM
+594,37.0,,11.9,0.25,,,Dune and Dry Interdune Origin,NM
+595,37.0,,14.6,1.1,,,Dune and Dry Interdune Origin,NM
+596,37.0,,14.1,4.3,,,Dune and Dry Interdune Origin,NM
+597,37.0,,14.5,13,,,Dune and Dry Interdune Origin,NM
+598,37.0,,17.2,9.1,,,Dune and Dry Interdune Origin,NM
+599,37.0,,11.1,3.4,,,Dune and Dry Interdune Origin,NM
+600,37.0,,10.3,3.8,,,Dune and Dry Interdune Origin,NM
+601,37.0,,10.1,4.5,,,Dune and Dry Interdune Origin,NM
+602,37.0,,8.8,0.15,,,Dune and Dry Interdune Origin,NM
+603,37.0,,9.1,0.26,,,Dune and Dry Interdune Origin,NM
+604,37.0,,8,0.09,,,Dune and Dry Interdune Origin,NM
+605,37.0,,8,0.1,,,Dune and Dry Interdune Origin,NM
+606,37.0,,10.5,0.47,,,Dune and Dry Interdune Origin,NM
+607,37.0,,14.1,3.6,,,Dune and Dry Interdune Origin,NM
+608,37.0,,13.2,3.7,,,Dune and Dry Interdune Origin,NM
+609,37.0,,13.1,3.4,,,Dune and Dry Interdune Origin,NM
+610,37.0,,13.8,3.8,,,Dune and Dry Interdune Origin,NM
+611,37.0,,15,4.4,,,Dune and Dry Interdune Origin,NM
+612,37.0,,13.3,4.8,,,Dune and Dry Interdune Origin,NM
+613,37.0,,17,6.6,,,Dune and Dry Interdune Origin,NM
+614,37.0,,6.9,0.08,,,Dune and Dry Interdune Origin,NM
+615,37.0,,14.1,1.7,,,Dune and Dry Interdune Origin,NM
+616,37.0,,15.8,1,,,Dune and Dry Interdune Origin,NM
+617,37.0,,14.8,1,,,Dune and Dry Interdune Origin,NM
+618,37.0,,14.9,1.9,,,Dune and Dry Interdune Origin,NM
+619,37.0,,15.2,2.7,,,Dune and Dry Interdune Origin,NM
+620,37.0,,15.8,3.5,,,Dune and Dry Interdune Origin,NM
+621,37.0,,15.8,6.4,,,Dune and Dry Interdune Origin,NM
+622,37.0,,7.7,0.27,,,Dune and Dry Interdune Origin,NM
+623,37.0,,7.8,0.21,,,Dune and Dry Interdune Origin,NM
+624,37.0,,10.8,0.22,,,Dune and Dry Interdune Origin,NM
+625,37.0,,9.3,0.11,,,Dune and Dry Interdune Origin,NM
+626,37.0,,11,0.18,,,Dune and Dry Interdune Origin,NM
+627,37.0,,10.5,0.18,,,Dune and Dry Interdune Origin,NM
+628,37.0,,9.4,0.09,,,Dune and Dry Interdune Origin,NM
+629,37.0,,13.3,0.97,,,Dune and Dry Interdune Origin,NM
+630,37.0,,9.5,0.39,,,Dune and Dry Interdune Origin,NM
+631,37.0,,11.2,0.5,,,Dune and Dry Interdune Origin,NM
+632,37.0,,7,0.06,,,Dune and Dry Interdune Origin,NM
+633,37.0,,3.7,0.02,,,Non-Dune Origin,NM
+634,37.0,,4.6,0.03,,,Non-Dune Origin,NM
+635,37.0,,10.1,0.14,,,Dune and Dry Interdune Origin,NM
+636,37.0,,9.9,0.28,,,Dune and Dry Interdune Origin,NM
+637,37.0,,11.6,0.18,,,Dune and Dry Interdune Origin,NM
+638,37.0,,9.4,0.3,,,Dune and Dry Interdune Origin,NM
+639,37.0,,12.6,1.2,,,Dune and Dry Interdune Origin,NM
+640,37.0,,12.7,0.47,,,Dune and Dry Interdune Origin,NM
+641,37.0,,10.1,0.19,,,Dune and Dry Interdune Origin,NM
+642,37.0,,9,0.22,,,Dune and Dry Interdune Origin,NM
+643,37.0,,4.5,0.03,,,Non-Dune Origin,NM
+644,37.0,,7.7,0.04,,,Dune and Dry Interdune Origin,NM
+645,37.0,,6.7,0.07,,,Dune and Dry Interdune Origin,NM
+646,37.0,,7.5,0.11,,,Dune and Dry Interdune Origin,NM
+647,37.0,,5.9,0.09,,,Dune and Dry Interdune Origin,NM
+648,37.0,,6,0.08,,,Dune and Dry Interdune Origin,NM
+649,37.0,,6.3,0.07,,,Dune and Dry Interdune Origin,NM
+650,37.0,,7.6,0.04,,,Dune and Dry Interdune Origin,NM
+651,37.0,,4.8,0.03,,,Non-Dune Origin,NM
+652,37.0,,9,0.1,,,Dune and Dry Interdune Origin,NM
+653,37.0,,10.7,0.25,,,Dune and Dry Interdune Origin,NM
+654,37.0,,9.5,0.07,,,Dune and Dry Interdune Origin,NM
+655,37.0,,8.3,0.05,,,Dune and Dry Interdune Origin,NM
+656,37.0,,6.7,0.04,,,Dune and Dry Interdune Origin,NM
+657,37.0,,7.2,0.05,,,Dune and Dry Interdune Origin,NM
+658,37.0,,7.2,0.06,,,Dune and Dry Interdune Origin,NM
+659,37.0,,6.9,0.03,,,Dune and Dry Interdune Origin,NM
+660,37.0,,8.3,0.07,,,Dune and Dry Interdune Origin,NM
+661,37.0,,7.1,0.07,,,Dune and Dry Interdune Origin,NM
+662,37.0,,5.9,0.04,,,Non-Dune Origin,NM
+663,37.0,,6.3,0.05,,,Dune and Dry Interdune Origin,NM
+664,37.0,,5.6,0.03,,,Non-Dune Origin,NM
+665,37.0,,4.6,0.02,,,Non-Dune Origin,NM
+666,37.0,,8.5,0.06,,,Dune and Dry Interdune Origin,NM
+667,37.0,,8.8,0.06,,,Dune and Dry Interdune Origin,NM
+668,37.0,,9.7,0.41,,,Dune and Dry Interdune Origin,NM
+669,37.0,,8,0.06,,,Dune and Dry Interdune Origin,NM
+670,37.0,,8,0.05,,,Dune and Dry Interdune Origin,NM
+671,37.0,,9.8,0.11,,,Dune and Dry Interdune Origin,NM
+672,37.0,,6.2,0.02,,,Non-Dune Origin,NM
+673,37.0,,5.2,0.04,,,Non-Dune Origin,NM
+674,37.0,,5.7,0.04,,,Non-Dune Origin,NM
+675,37.0,,5,0.05,,,Non-Dune Origin,NM
+676,37.0,,5.6,0.05,,,Non-Dune Origin,NM
+677,37.0,,9.1,0.08,,,Dune and Dry Interdune Origin,NM
+678,37.0,,9.3,0.1,,,Dune and Dry Interdune Origin,NM
+679,37.0,,9.7,0.08,,,Dune and Dry Interdune Origin,NM
+680,37.0,,8.4,0.07,,,Dune and Dry Interdune Origin,NM
+681,37.0,,9.7,0.1,,,Dune and Dry Interdune Origin,NM
+682,37.0,,8.4,0.19,,,Dune and Dry Interdune Origin,NM
+683,37.0,,10.1,1.6,,,Dune and Dry Interdune Origin,NM
+684,37.0,,6.2,0.04,,,Dune and Dry Interdune Origin,NM
+685,37.0,,10.5,0.08,,,Dune and Dry Interdune Origin,NM
+686,37.0,,9,0.09,,,Dune and Dry Interdune Origin,NM
+687,37.0,,8,0.07,,,Dune and Dry Interdune Origin,NM
+688,37.0,,6.7,0.03,,,Dune and Dry Interdune Origin,NM
+689,37.0,,5.5,0.05,,,Non-Dune Origin,NM
+690,37.0,,4.6,0.01,,,Non-Dune Origin,NM
+691,37.0,,3,0.03,,,Non-Dune Origin,NM
+692,37.0,,4.2,0.04,,,Dune and Dry Interdune Origin,NM
+693,37.0,,3.5,0.05,,,Dune and Dry Interdune Origin,NM
+694,37.0,,6.9,0.06,,,Dune and Dry Interdune Origin,NM
+695,37.0,,6.7,0.03,,,Dune and Dry Interdune Origin,NM
+696,37.0,,5.7,0.02,,,Non-Dune Origin,NM
+697,37.0,,6.5,0.04,,,Non-Dune Origin,NM
+698,37.0,,6.2,0.03,,,Non-Dune Origin,NM
+699,37.0,,6.3,0.04,,,Dune and Dry Interdune Origin,NM
+700,37.0,,4.3,0.02,,,Non-Dune Origin,NM
+701,37.0,,6.8,0.03,,,Dune and Dry Interdune Origin,NM
+702,37.0,,5.9,0.02,,,Non-Dune Origin,NM
+703,37.0,,6.2,0.03,,,Non-Dune Origin,NM
+704,37.0,,8.3,0.05,,,Dune and Dry Interdune Origin,NM
+705,37.0,,7.9,0.04,,,Dune and Dry Interdune Origin,NM
+706,37.0,,0,0.12,,,Dune and Dry Interdune Origin,NM
+707,37.0,,6.7,0.04,,,Dune and Dry Interdune Origin,NM
+708,37.0,,7.7,0.04,,,Dune and Dry Interdune Origin,NM
+709,37.0,,7.6,0.05,,,Dune and Dry Interdune Origin,NM
+710,37.0,,7.2,0.03,,,Dune and Dry Interdune Origin,NM
+711,37.0,,5.1,0.02,,,Dune and Dry Interdune Origin,NM
+712,37.0,,5.9,0.03,,,Dune and Dry Interdune Origin,NM
+713,37.0,,5.7,0.03,,,Dune and Dry Interdune Origin,NM
+714,37.0,,6.9,0.03,,,Dune and Dry Interdune Origin,NM
+715,37.0,,7.1,0.03,,,Dune and Dry Interdune Origin,NM
+716,37.0,,7.8,0.04,,,Dune and Dry Interdune Origin,NM
+717,37.0,,7.9,0.05,,,Dune and Dry Interdune Origin,NM
+718,37.0,,9.1,0.06,,,Dune and Dry Interdune Origin,NM
+719,37.0,,7.1,0.03,,,Dune and Dry Interdune Origin,NM
+720,37.0,,8.6,0.06,,,Dune and Dry Interdune Origin,NM
+721,37.0,,6.1,0.02,,,Dune and Dry Interdune Origin,NM
+722,37.0,,8.3,0.04,,,Dune and Dry Interdune Origin,NM
+723,37.0,,6,0.03,,,Dune and Dry Interdune Origin,NM
+724,37.0,,8.7,0.11,,,Dune and Dry Interdune Origin,NM
+725,37.0,,6.2,0.06,,,Dune and Dry Interdune Origin,NM
+726,37.0,,6.4,0.04,,,Dune and Dry Interdune Origin,NM
+727,37.0,,4,0.04,,,Non-Dune Origin,NM
+728,37.0,,5.6,0.03,,,Dune and Dry Interdune Origin,NM
+729,37.0,,13.3,2.6,,,Dune and Dry Interdune Origin,NM
+730,37.0,,7.7,0.13,,,Dune and Dry Interdune Origin,NM
+731,37.0,,7.4,0.03,,,Dune and Dry Interdune Origin,NM
+732,37.0,,7.7,0.04,,,Dune and Dry Interdune Origin,NM
+733,37.0,,6.6,0.03,,,Dune and Dry Interdune Origin,NM
+734,37.0,,6.1,0.04,,,Dune and Dry Interdune Origin,NM
+735,37.0,,7.9,0.09,,,Dune and Dry Interdune Origin,NM
+736,37.0,,7.2,0.1,,,Dune and Dry Interdune Origin,NM
+737,37.0,,7.1,0.1,,,Dune and Dry Interdune Origin,NM
+738,37.0,,6.4,0.03,,,Dune and Dry Interdune Origin,NM
+739,37.0,,5.6,0.02,,,Dune and Dry Interdune Origin,NM
+740,37.0,,6.3,0.02,,,Dune and Dry Interdune Origin,NM
+741,37.0,,6.9,0.05,,,Dune and Dry Interdune Origin,NM
+742,37.0,,8.4,0.08,,,Dune and Dry Interdune Origin,NM
+743,37.0,,9.9,0.21,,,Dune and Dry Interdune Origin,NM
+744,37.0,,9.6,0.25,,,Dune and Dry Interdune Origin,NM
+745,37.0,,10.3,0.24,,,Dune and Dry Interdune Origin,NM
+746,37.0,,10.9,0.38,,,Dune and Dry Interdune Origin,NM
+747,37.0,,11.5,0.54,,,Dune and Dry Interdune Origin,NM
+748,37.0,,10.8,0.42,,,Dune and Dry Interdune Origin,NM
+749,37.0,,9.2,0.1,,,Dune and Dry Interdune Origin,NM
+750,37.0,,8.4,0.23,,,Dune and Dry Interdune Origin,NM
+751,37.0,,7,0.1,,,Dune and Dry Interdune Origin,NM
+752,37.0,,9.1,0.08,,,Dune and Dry Interdune Origin,NM
+753,37.0,,4.6,0.05,,,Dune and Dry Interdune Origin,NM
+754,37.0,,4.6,0.04,,,Dune and Dry Interdune Origin,NM
+755,37.0,,7.7,0.09,,,Dune and Dry Interdune Origin,NM
+756,37.0,,10.5,1.1,,,Dune and Dry Interdune Origin,NM
+757,37.0,,11.6,3.99,,,Dune and Dry Interdune Origin,NM
+758,37.0,,12,33,,,Dune and Dry Interdune Origin,NM
+759,37.0,,11.1,3.3,,,Dune and Dry Interdune Origin,NM
+760,37.0,,10.7,5.1,,,Dune and Dry Interdune Origin,NM
+761,37.0,,11.6,46,,,Dune and Dry Interdune Origin,NM
+762,37.0,,7.6,0.81,,,Dune and Dry Interdune Origin,NM
+763,37.0,,7.3,0.1,,,Dune and Dry Interdune Origin,NM
+764,37.0,,2.1,0.05,,,Dune and Dry Interdune Origin,NM
+765,37.0,,7.5,0.43,,,Dune and Dry Interdune Origin,NM
+766,37.0,,4.9,0.04,,,Dune and Dry Interdune Origin,NM
+767,37.0,,4.6,0.03,,,Dune and Dry Interdune Origin,NM
+768,37.0,,5.3,0.05,,,Dune and Dry Interdune Origin,NM
+769,37.0,,6.4,0.56,,,Dune and Dry Interdune Origin,NM
+770,37.0,,5.2,0.06,,,Dune and Dry Interdune Origin,NM
+771,37.0,,9.5,0.28,,,Dune and Dry Interdune Origin,NM
+772,37.0,,7.6,0.05,,,Dune and Dry Interdune Origin,NM
+773,37.0,,11,0.55,,,Dune and Dry Interdune Origin,NM
+774,37.0,,7,0.03,,,Non-Dune Origin,NM
+775,37.0,,9,0.12,,,Dune and Dry Interdune Origin,NM
+776,37.0,,7.6,0.04,,,Dune and Dry Interdune Origin,NM
+777,37.0,,9.3,0.19,,,Dune and Dry Interdune Origin,NM
+778,37.0,,9.8,0.12,,,Dune and Dry Interdune Origin,NM
+779,37.0,,6.6,0.07,,,Dune and Dry Interdune Origin,NM
+780,37.0,,3.4,0.02,,,Non-Dune Origin,NM
+781,37.0,,8.9,0.08,,,Dune and Dry Interdune Origin,NM
+782,37.0,,10.6,0.18,,,Dune and Dry Interdune Origin,NM
+783,37.0,,10.8,0.63,,,Dune and Dry Interdune Origin,NM
+784,37.0,,7.1,0.09,,,Dune and Dry Interdune Origin,NM
+785,37.0,,7.7,0.05,,,Dune and Dry Interdune Origin,NM
+786,37.0,,9.8,0.13,,,Dune and Dry Interdune Origin,NM
+787,37.0,,5.5,0.04,,,Non-Dune Origin,NM
+788,37.0,,5.9,0.03,,,Non-Dune Origin,NM
+789,37.0,,7,0.05,,,Non-Dune Origin,NM
+790,37.0,,7.5,0.05,,,Dune and Dry Interdune Origin,NM
+791,37.0,,5,0.05,,,Non-Dune Origin,NM
+792,37.0,,4.3,0.02,,,Non-Dune Origin,NM
+793,37.0,,4.4,0.04,,,Non-Dune Origin,NM
+794,37.0,,5.4,0.02,,,Non-Dune Origin,NM
+795,37.0,,5.1,0.02,,,Non-Dune Origin,NM
+796,37.0,,6.2,0.02,,,Non-Dune Origin,NM
+797,37.0,,5.8,0.03,,,Non-Dune Origin,NM
+798,37.0,,7.1,0.05,,,Non-Dune Origin,NM
+799,37.0,,5.4,0.02,,,Non-Dune Origin,NM
+800,37.0,,4.5,0.02,,,Non-Dune Origin,NM
+801,37.0,,6,0.04,,,Non-Dune Origin,NM
+802,37.0,,6,0.02,,,Non-Dune Origin,NM
+803,37.0,,9.3,0.06,,,Non-Dune Origin,NM
+804,37.0,,8.6,0.05,,,Non-Dune Origin,NM
+805,37.0,,7.9,0.04,,,Non-Dune Origin,NM
+806,37.0,,5.5,0.01,,,Non-Dune Origin,NM
+807,37.0,,4.9,0.02,,,Non-Dune Origin,NM
+808,37.0,,7.1,0.03,,,Non-Dune Origin,NM
+809,37.0,,12.6,1.7,,,Dune and Dry Interdune Origin,NM
+810,37.0,,11.1,2.6,,,Dune and Dry Interdune Origin,NM
+811,37.0,,13.8,23,,,Dune and Dry Interdune Origin,NM
+812,37.0,,14.7,8.8,,,Dune and Dry Interdune Origin,NM
+813,37.0,,10.9,0.92,,,Dune and Dry Interdune Origin,NM
+814,37.0,,9,0.58,,,Dune and Dry Interdune Origin,NM
+815,37.0,,7.2,1.4,,,Dune and Dry Interdune Origin,NM
+816,37.0,,8.9,19,,,Dune and Dry Interdune Origin,NM
+817,37.0,,8.2,21,,,Dune and Dry Interdune Origin,NM
+818,37.0,,3.7,0.04,,,Non-Dune Origin,NM
+819,37.0,,11.8,3.6,,,Dune and Dry Interdune Origin,NM
+820,37.0,,8.4,0.82,,,Dune and Dry Interdune Origin,NM
+821,37.0,,12.3,2.3,,,Dune and Dry Interdune Origin,NM
+822,37.0,,13.5,7.2,,,Dune and Dry Interdune Origin,NM
+823,37.0,,13.4,5,,,Dune and Dry Interdune Origin,NM
+824,37.0,,10.2,7.2,,,Dune and Dry Interdune Origin,NM
+825,37.0,,10.6,5.7,,,Dune and Dry Interdune Origin,NM
+826,37.0,,7.9,0.13,,,Dune and Dry Interdune Origin,NM
+827,37.0,,11.1,0.65,,,Dune and Dry Interdune Origin,NM
+828,37.0,,11.9,0.61,,,Dune and Dry Interdune Origin,NM
+829,37.0,,11.6,1.8,,,Dune and Dry Interdune Origin,NM
+830,37.0,,10.8,0.35,,,Dune and Dry Interdune Origin,NM
+831,37.0,,10.6,1.6,,,Dune and Dry Interdune Origin,NM
+832,37.0,,12.5,1.2,,,Dune and Dry Interdune Origin,NM
+833,37.0,,13.2,3.6,,,Dune and Dry Interdune Origin,NM
+834,37.0,,13.8,2.7,,,Dune and Dry Interdune Origin,NM
+835,37.0,,13.1,3.5,,,Dune and Dry Interdune Origin,NM
+836,37.0,,12.6,1.7,,,Dune and Dry Interdune Origin,NM
+837,37.0,,13.1,2.5,,,Dune and Dry Interdune Origin,NM
+838,37.0,,12.6,2.1,,,Dune and Dry Interdune Origin,NM
+839,37.0,,12.3,1.7,,,Dune and Dry Interdune Origin,NM
+840,37.0,,12.7,3.4,,,Dune and Dry Interdune Origin,NM
+841,37.0,,12.9,3.7,,,Dune and Dry Interdune Origin,NM
+842,37.0,,12.5,2.6,,,Dune and Dry Interdune Origin,NM
+843,37.0,,14,4.3,,,Dune and Dry Interdune Origin,NM
+844,37.0,,12.1,2.3,,,Dune and Dry Interdune Origin,NM
+845,37.0,,13.7,2.5,,,Dune and Dry Interdune Origin,NM
+846,37.0,,13.7,2.1,,,Dune and Dry Interdune Origin,NM
+847,37.0,,13.3,7.8,,,Dune and Dry Interdune Origin,NM
+848,37.0,,13,2.2,,,Dune and Dry Interdune Origin,NM
+849,37.0,,14.9,5.3,,,Dune and Dry Interdune Origin,NM
+850,37.0,,12.9,2.9,,,Dune and Dry Interdune Origin,NM
+851,37.0,,13.5,3.2,,,Dune and Dry Interdune Origin,NM
+852,37.0,,14.5,50,,,Dune and Dry Interdune Origin,NM
+853,37.0,,13.7,12,,,Dune and Dry Interdune Origin,NM
+854,37.0,,9.2,1,,,Dune and Dry Interdune Origin,NM
+855,37.0,,6.8,0.24,,,Dune and Dry Interdune Origin,NM
+856,37.0,,6.4,0.16,,,Non-Dune Origin,NM
+857,37.0,,10.2,0.27,,,Dune and Dry Interdune Origin,NM
+858,37.0,,9.9,0.19,,,Dune and Dry Interdune Origin,NM
+859,37.0,,9.8,0.2,,,Dune and Dry Interdune Origin,NM
+860,37.0,,7.3,0.07,,,Non-Dune Origin,NM
+861,37.0,,7.1,0.1,,,Non-Dune Origin,NM
+862,37.0,,7,0.14,,,Dune and Dry Interdune Origin,NM
+863,37.0,,8.6,0.16,,,Non-Dune Origin,NM
+864,37.0,,8,0.13,,,Non-Dune Origin,NM
+865,37.0,,6,0.06,,,Non-Dune Origin,NM
+866,37.0,,5.1,0.06,,,Non-Dune Origin,NM
+867,37.0,,4.8,0.06,,,Non-Dune Origin,NM
+868,37.0,,4.7,0.03,,,Non-Dune Origin,NM
+869,37.0,,5.4,0.03,,,Non-Dune Origin,NM
+870,37.0,,6,0.08,,,Non-Dune Origin,NM
+871,37.0,,5.1,0.04,,,Non-Dune Origin,NM
+872,37.0,,8.6,0.26,,,Dune and Dry Interdune Origin,NM
+873,37.0,,7.7,0.17,,,Non-Dune Origin,NM
+874,37.0,,9.2,0.42,,,Non-Dune Origin,NM
+875,37.0,,9.1,0.12,,,Non-Dune Origin,NM
+876,37.0,,11.6,10,,,Dune and Dry Interdune Origin,NM
+877,37.0,,9.3,3.1,,,Dune and Dry Interdune Origin,NM
+878,37.0,,11,0.15,,,Non-Dune Origin,NM
+879,37.0,,11,0.24,,,Non-Dune Origin,NM
+880,37.0,,11.6,6.6,,,Dune and Dry Interdune Origin,NM
+881,37.0,,11,6.4,,,Dune and Dry Interdune Origin,NM
+882,37.0,,8.8,1.2,,,Dune and Dry Interdune Origin,NM
+883,37.0,,13.4,0.72,,,Dune and Dry Interdune Origin,NM
+884,37.0,,14.7,2.8,,,Dune and Dry Interdune Origin,NM
+885,37.0,,13,0.43,,,Dune and Dry Interdune Origin,NM
+886,37.0,,15,2.3,,,Dune and Dry Interdune Origin,NM
+887,37.0,,11.7,7,,,Dune and Dry Interdune Origin,NM
+888,37.0,,10.9,0.72,,,Dune and Dry Interdune Origin,NM
+889,37.0,,12.9,2.3,,,Dune and Dry Interdune Origin,NM
+890,37.0,,11.6,1.1,,,Dune and Dry Interdune Origin,NM
+891,37.0,,5.1,0.04,,,Non-Dune Origin,NM
+892,37.0,,10.8,0.86,,,Non-Dune Origin,NM
+893,37.0,,11,1.3,,,Dune and Dry Interdune Origin,NM
+894,37.0,,10.7,0.08,,,Non-Dune Origin,NM
+895,37.0,,12.9,0.08,,,Non-Dune Origin,NM
+896,37.0,,12.7,1.1,,,Dune and Dry Interdune Origin,NM
+897,37.0,,13.4,0.5,,,Dune and Dry Interdune Origin,NM
+898,37.0,,14.2,2.8,,,Dune and Dry Interdune Origin,NM
+899,37.0,,12.7,1.8,,,Dune and Dry Interdune Origin,NM
+900,37.0,,13.1,3.6,,,Dune and Dry Interdune Origin,NM
+901,37.0,,14,6.7,,,Dune and Dry Interdune Origin,NM
+902,37.0,,12.9,2.4,,,Dune and Dry Interdune Origin,NM
+903,37.0,,15.1,8.7,,,Dune and Dry Interdune Origin,NM
+904,37.0,,15.2,18,,,Dune and Dry Interdune Origin,NM
+905,37.0,,7.6,11,,,Dune and Dry Interdune Origin,NM
+906,37.0,,7.3,0.26,,,Non-Dune Origin,NM
+907,37.0,,8,0.05,,,Non-Dune Origin,NM
+908,37.0,,10.8,0.08,,,Non-Dune Origin,NM
+909,37.0,,10.9,0.12,,,Non-Dune Origin,NM
+910,37.0,,10,0.1,,,Non-Dune Origin,NM
+911,37.0,,10.3,0.09,,,Non-Dune Origin,NM
+912,37.0,,11.5,0.21,,,Non-Dune Origin,NM
+913,37.0,,10.3,0.13,,,Non-Dune Origin,NM
+914,37.0,,11.1,0.19,,,Non-Dune Origin,NM
+915,37.0,,9.6,0.51,,,Dune and Dry Interdune Origin,NM
+916,37.0,,9.1,0.1,,,Non-Dune Origin,NM
+917,37.0,,9.6,0.08,,,Non-Dune Origin,NM
+918,37.0,,9,0.09,,,Non-Dune Origin,NM
+919,37.0,,8.9,0.13,,,Non-Dune Origin,NM
+920,37.0,,9.2,0.18,,,Non-Dune Origin,NM
+921,37.0,,10.2,0.46,,,Non-Dune Origin,NM
+922,37.0,,9.5,0.52,,,Non-Dune Origin,NM
+923,37.0,,9.8,0.12,,,Non-Dune Origin,NM
+924,37.0,,9.3,1,,,Non-Dune Origin,NM
+925,37.0,,3.6,0.05,,,Non-Dune Origin,NM
+926,37.0,,4.4,0.07,,,Non-Dune Origin,NM
+927,37.0,,6.7,0.05,,,Non-Dune Origin,NM
+928,37.0,,14.5,0.32,,,Non-Dune Origin,NM
+929,37.0,,10.4,0.18,,,Non-Dune Origin,NM
+930,37.0,,11.6,0.1,,,Non-Dune Origin,NM
+931,37.0,,12.8,0.22,,,Non-Dune Origin,NM
+932,37.0,,14.6,1,,,Non-Dune Origin,NM
+933,37.0,,14.7,0.68,,,Non-Dune Origin,NM
+934,37.0,,13.2,0.84,,,Non-Dune Origin,NM
+935,37.0,,8.9,0.12,,,Non-Dune Origin,NM
+936,37.0,,7.7,0.08,,,Non-Dune Origin,NM
+937,37.0,,13.1,1.6,,,Non-Dune Origin,NM
+938,37.0,,12.3,2.5,,,Dune and Dry Interdune Origin,NM
+939,37.0,,13.7,1.4,,,Dune and Dry Interdune Origin,NM
+940,37.0,,8.2,0.13,,,Non-Dune Origin,NM
+941,37.0,,11,0.78,,,Dune and Dry Interdune Origin,NM
+942,37.0,,7.5,0.14,,,Non-Dune Origin,NM
+943,37.0,,4.6,0.08,,,Non-Dune Origin,NM
+944,37.0,,6.5,0.08,,,Non-Dune Origin,NM
+945,37.0,,10.3,0.21,,,Non-Dune Origin,NM
+946,37.0,,11.4,0.36,,,Non-Dune Origin,NM
+947,37.0,,11.3,0.15,,,Non-Dune Origin,NM
+948,37.0,,6.1,0.21,,,Non-Dune Origin,NM
+949,37.0,,9.6,0.02,,,Non-Dune Origin,NM
+950,37.0,,9.2,0.12,,,Non-Dune Origin,NM
+951,37.0,,2.8,0.06,,,Non-Dune Origin,NM
+952,37.0,,3.8,0.02,,,Non-Dune Origin,NM
+953,37.0,,4.9,0.02,,,Non-Dune Origin,NM
+954,37.0,,4.6,0.02,,,Non-Dune Origin,NM
+955,37.0,,4.1,0.02,,,Non-Dune Origin,NM
+956,37.0,,8.1,0.08,,,Non-Dune Origin,NM
+957,37.0,,7,0.06,,,Non-Dune Origin,NM
+958,37.0,,6.1,0.04,,,Non-Dune Origin,NM
+959,37.0,,6.6,0.07,,,Non-Dune Origin,NM
+960,37.0,,6.3,0.05,,,Non-Dune Origin,NM
+961,37.0,,9.2,0.11,,,Non-Dune Origin,NM
+962,37.0,,12,0.81,,,Non-Dune Origin,NM
+963,37.0,,14,1.8,,,Non-Dune Origin,NM
+964,37.0,,13.1,8.8,,,Dune and Dry Interdune Origin,NM
+965,37.0,,10.1,0.21,,,Non-Dune Origin,NM
+966,37.0,,6.2,0.07,,,Non-Dune Origin,NM
+967,37.0,,5.2,0.03,,,Non-Dune Origin,NM
+968,37.0,,4.5,0.01,,,Non-Dune Origin,NM
+969,37.0,,6.9,0.04,,,Non-Dune Origin,NM
+970,37.0,,6.1,0.04,,,Non-Dune Origin,NM
+971,37.0,,4.5,0.03,,,Non-Dune Origin,NM
+972,37.0,,3.5,0.02,,,Non-Dune Origin,NM
+973,37.0,,5.7,0.02,,,Non-Dune Origin,NM
+974,37.0,,6.1,0.02,,,Non-Dune Origin,NM
+975,37.0,,3.2,0.01,,,Non-Dune Origin,NM
+976,37.0,,8.3,0.04,,,Non-Dune Origin,NM
+977,37.0,,6,0.02,,,Non-Dune Origin,NM
+978,37.0,,6.9,0.03,,,Non-Dune Origin,NM
+979,37.0,,6.2,0.04,,,Non-Dune Origin,NM
+980,37.0,,7.2,0.04,,,Non-Dune Origin,NM
+981,37.0,,8.7,0.05,,,Non-Dune Origin,NM
+982,37.0,,9.1,0.07,,,Non-Dune Origin,NM
+983,37.0,,8.7,0.24,,,Dune and Dry Interdune Origin,NM
+984,37.0,,7.8,0.13,,,Dune and Dry Interdune Origin,NM
+985,37.0,,6.7,0.17,,,Dune and Dry Interdune Origin,NM
+986,37.0,,11.8,112,,,Dune and Dry Interdune Origin,NM
+987,37.0,,5.6,0.17,,,Dune and Dry Interdune Origin,NM
+988,37.0,,6,0.34,,,Dune and Dry Interdune Origin,NM
+989,37.0,,7.2,0.14,,,Dune and Dry Interdune Origin,NM
+990,37.0,,5.8,0.12,,,Dune and Dry Interdune Origin,NM
+991,37.0,,11.9,13,,,Dune and Dry Interdune Origin,NM
+992,37.0,,11.7,4.2,,,Dune and Dry Interdune Origin,NM
+993,37.0,,5.1,0.05,,,Non-Dune Origin,NM
+994,37.0,,4.7,0.05,,,Non-Dune Origin,NM
+995,37.0,,5.5,0.07,,,Non-Dune Origin,NM
+996,37.0,,6.1,0.07,,,Dune and Dry Interdune Origin,NM
+997,37.0,,6.6,0.17,,,Dune and Dry Interdune Origin,NM
+998,37.0,,7.9,0.17,,,Dune and Dry Interdune Origin,NM
+999,37.0,,5,0.06,,,Non-Dune Origin,NM
+1000,37.0,,5.5,0.07,,,Dune and Dry Interdune Origin,NM
+1001,37.0,,9.4,1.8,,,Dune and Dry Interdune Origin,NM
+1002,37.0,,7,0.3,,,Dune and Dry Interdune Origin,NM
+1003,37.0,,6.1,0.16,,,Dune and Dry Interdune Origin,NM
+1004,37.0,,3.7,0.05,,,Non-Dune Origin,NM
+1005,37.0,,7.3,0.31,,,Dune and Dry Interdune Origin,NM
+1006,37.0,,4.6,0.05,,,Non-Dune Origin,NM
+1007,37.0,,9.5,0.28,,,Dune and Dry Interdune Origin,NM
+1008,37.0,,9.9,0.2,,,Dune and Dry Interdune Origin,NM
+1009,37.0,,9.1,0.18,,,Dune and Dry Interdune Origin,NM
+1010,37.0,,10.7,0.77,,,Dune and Dry Interdune Origin,NM
+1011,37.0,,8.4,0.75,,,Dune and Dry Interdune Origin,NM
+1012,37.0,,10.1,0.49,,,Dune and Dry Interdune Origin,NM
+1013,37.0,,8.7,1.6,,,Dune and Dry Interdune Origin,NM
+1014,37.0,,4.7,0.08,,,Dune and Dry Interdune Origin,NM
+1015,37.0,,5.5,0.05,,,Dune and Dry Interdune Origin,NM
+1016,37.0,,6.2,0.05,,,Dune and Dry Interdune Origin,NM
+1017,37.0,,2.6,0.03,,,Non-Dune Origin,NM
+1018,37.0,,7.2,0.09,,,Dune and Dry Interdune Origin,NM
+1019,37.0,,9.9,0.14,,,Dune and Dry Interdune Origin,NM
+1020,37.0,,11.3,0.77,,,Dune and Dry Interdune Origin,NM
+1021,37.0,,10.4,0.53,,,Dune and Dry Interdune Origin,NM
+1022,37.0,,11.7,0.55,,,Dune and Dry Interdune Origin,NM
+1023,37.0,,10.4,0.33,,,Dune and Dry Interdune Origin,NM
+1024,37.0,,10.5,0.54,,,Dune and Dry Interdune Origin,NM
+1025,37.0,,9.5,0.21,,,Dune and Dry Interdune Origin,NM
+1026,37.0,,9.6,0.46,,,Dune and Dry Interdune Origin,NM
+1027,37.0,,8.9,0.19,,,Dune and Dry Interdune Origin,NM
+1028,37.0,,8.6,0.09,,,Dune and Dry Interdune Origin,NM
+1029,37.0,,11.6,6.8,,,Dune and Dry Interdune Origin,NM
+1030,37.0,,7.6,0.45,,,Dune and Dry Interdune Origin,NM
+1031,37.0,,9.3,14,,,Dune and Dry Interdune Origin,NM
+1032,37.0,,3.3,0.03,,,Non-Dune Origin,NM
+1033,37.0,,5.4,0.04,,,Non-Dune Origin,NM
+1034,37.0,,4.1,0.03,,,Non-Dune Origin,NM
+1035,37.0,,8.2,0.15,,,Dune and Dry Interdune Origin,NM
+1036,37.0,,5.2,0.1,,,Dune and Dry Interdune Origin,NM
+1037,37.0,,7.7,0.1,,,Dune and Dry Interdune Origin,NM
+1038,37.0,,7.9,0.09,,,Dune and Dry Interdune Origin,NM
+1039,37.0,,6.8,0.14,,,Dune and Dry Interdune Origin,NM
+1040,37.0,,10.7,0.89,,,Dune and Dry Interdune Origin,NM
+1041,37.0,,14.7,16,,,Dune and Dry Interdune Origin,NM
+1042,37.0,,13.8,4,,,Dune and Dry Interdune Origin,NM
+1043,37.0,,14,7,,,Dune and Dry Interdune Origin,NM
+1044,37.0,,14.4,17,,,Dune and Dry Interdune Origin,NM
+1045,37.0,,6.6,0.05,,,Dune and Dry Interdune Origin,NM
+1046,37.0,,6.9,0.3,,,Dune and Dry Interdune Origin,NM
+1047,37.0,,7,0.69,,,Dune and Dry Interdune Origin,NM
+1048,37.0,,13.7,0.54,,,Dune and Dry Interdune Origin,NM
+1049,37.0,,9.3,0.09,,,Non-Dune Origin,NM
+1050,37.0,,6.3,0.04,,,Non-Dune Origin,NM
+1051,37.0,,6.3,0.05,,,Non-Dune Origin,NM
+1052,37.0,,3.9,0.02,,,Non-Dune Origin,NM
+1053,37.0,,4.7,0.05,,,Non-Dune Origin,NM
+1054,37.0,,7.3,0.06,,,Non-Dune Origin,NM
+1055,37.0,,7.3,0.06,,,Non-Dune Origin,NM
+1056,37.0,,6.4,0.07,,,Non-Dune Origin,NM
+1057,37.0,,5.8,0.04,,,Non-Dune Origin,NM
+1058,37.0,,5.8,0.04,,,Non-Dune Origin,NM
+1059,37.0,,4.5,0.03,,,Non-Dune Origin,NM
+1060,37.0,,5.7,0.04,,,Dune and Dry Interdune Origin,NM
+1061,37.0,,6.8,0.13,,,Dune and Dry Interdune Origin,NM
+1062,37.0,,10.9,33,,,Dune and Dry Interdune Origin,NM
+1063,37.0,,12.1,20,,,Dune and Dry Interdune Origin,NM
+1064,37.0,,14.1,7.5,,,Dune and Dry Interdune Origin,NM
+1065,37.0,,13.9,12,,,Dune and Dry Interdune Origin,NM
+1066,37.0,,15.4,12,,,Dune and Dry Interdune Origin,NM
+1067,37.0,,14,15,,,Dune and Dry Interdune Origin,NM
+1068,37.0,,12.1,11,,,Dune and Dry Interdune Origin,NM
+1069,37.0,,9.4,17,,,Dune and Dry Interdune Origin,NM
+1070,37.0,,8.4,1.3,,,Dune and Dry Interdune Origin,NM
+1071,37.0,,9.5,0.59,,,Dune and Dry Interdune Origin,NM
+1072,37.0,,6.4,1,,,Dune and Dry Interdune Origin,NM
+1073,37.0,,11.3,0.65,,,Dune and Dry Interdune Origin,NM
+1074,37.0,,7,0.08,,,Dune and Dry Interdune Origin,NM
+1075,37.0,,10.4,2.3,,,Dune and Dry Interdune Origin,NM
+1076,37.0,,12.7,5,,,Dune and Dry Interdune Origin,NM
+1077,37.0,,16.1,51,,,Dune and Dry Interdune Origin,NM
+1078,37.0,,13.7,20,,,Dune and Dry Interdune Origin,NM
+1079,37.0,,13.1,27,,,Dune and Dry Interdune Origin,NM
+1080,37.0,,6.5,0.31,,,Dune and Dry Interdune Origin,NM
+1081,37.0,,10.6,4.2,,,Dune and Dry Interdune Origin,NM
+1082,37.0,,4.2,0.06,,,Dune and Dry Interdune Origin,NM
+1083,37.0,,9.9,0.45,,,Dune and Dry Interdune Origin,NM
+1084,37.0,,8.4,2.8,,,Dune and Dry Interdune Origin,NM
+1085,37.0,,10.1,0.95,,,Dune and Dry Interdune Origin,NM
+1086,37.0,,10.8,0.58,,,Dune and Dry Interdune Origin,NM
+1087,37.0,,10.7,0.94,,,Dune and Dry Interdune Origin,NM
+1088,37.0,,9.3,2.2,,,Dune and Dry Interdune Origin,NM
+1089,37.0,,9.8,1.5,,,Dune and Dry Interdune Origin,NM
+1090,37.0,,7.8,0.21,,,Dune and Dry Interdune Origin,NM
+1091,37.0,,11.7,8.7,,,Dune and Dry Interdune Origin,NM
+1092,37.0,,8.3,3.9,,,Dune and Dry Interdune Origin,NM
+1093,37.0,,6.8,0.72,,,Dune and Dry Interdune Origin,NM
+1094,37.0,,4.7,0.05,,,Dune and Dry Interdune Origin,NM
+1095,37.0,,5.4,0.07,,,Dune and Dry Interdune Origin,NM
+1096,37.0,,8.8,0.13,,,Dune and Dry Interdune Origin,NM
+1097,37.0,,11.1,1.9,,,Dune and Dry Interdune Origin,NM
+1098,37.0,,12.7,15,,,Dune and Dry Interdune Origin,NM
+1099,37.0,,10.3,4.2,,,Dune and Dry Interdune Origin,NM
+1100,37.0,,9.6,1.4,,,Dune and Dry Interdune Origin,NM
+1101,37.0,,9.5,1.7,,,Dune and Dry Interdune Origin,NM
+1102,37.0,,4.1,0.05,,,Dune and Dry Interdune Origin,NM
+1103,37.0,,10.2,1.4,,,Dune and Dry Interdune Origin,NM
+1104,37.0,,10.7,0.86,,,Dune and Dry Interdune Origin,NM
+1105,37.0,,8.1,0.44,,,Dune and Dry Interdune Origin,NM
+1106,37.0,,6.9,0.05,,,Dune and Dry Interdune Origin,NM
+1107,37.0,,6.4,0.06,,,Dune and Dry Interdune Origin,NM
+1108,37.0,,6.7,0.09,,,Dune and Dry Interdune Origin,NM
+1109,37.0,,6.9,0.14,,,Dune and Dry Interdune Origin,NM
+1110,37.0,,5.8,0.07,,,Dune and Dry Interdune Origin,NM
+1111,37.0,,7.4,0.11,,,Dune and Dry Interdune Origin,NM
+1112,37.0,,8.5,0.07,,,Dune and Dry Interdune Origin,NM
+1113,37.0,,7.5,0.05,,,Dune and Dry Interdune Origin,NM
+1114,37.0,,6,0.08,,,Dune and Dry Interdune Origin,NM
+1115,37.0,,7.7,0.07,,,Dune and Dry Interdune Origin,NM
+1116,37.0,,11,3.8,,,Dune and Dry Interdune Origin,NM
+1117,37.0,,15.8,11,,,Dune and Dry Interdune Origin,NM
+1118,37.0,,17.6,10,,,Dune and Dry Interdune Origin,NM
+1119,37.0,,18.5,17,,,Dune and Dry Interdune Origin,NM
+1120,37.0,,18.5,15,,,Dune and Dry Interdune Origin,NM
+1121,37.0,,15.6,11,,,Dune and Dry Interdune Origin,NM
+1122,37.0,,18.1,18,,,Dune and Dry Interdune Origin,NM
+1123,37.0,,18.2,23,,,Dune and Dry Interdune Origin,NM
+1124,37.0,,17.8,20,,,Dune and Dry Interdune Origin,NM
+1125,37.0,,17.3,45,,,Dune and Dry Interdune Origin,NM
+1126,37.0,,16.4,20,,,Dune and Dry Interdune Origin,NM
+1127,37.0,,18.4,296,,,Dune and Dry Interdune Origin,NM
+1128,37.0,,17.9,206,,,Dune and Dry Interdune Origin,NM
+1129,37.0,,19,549,,,Dune and Dry Interdune Origin,NM
+1130,37.0,,16.7,232,,,Dune and Dry Interdune Origin,NM
+1131,37.0,,18.1,269,,,Dune and Dry Interdune Origin,NM
+1132,37.0,,6.9,0.27,,,Dune and Dry Interdune Origin,NM
+1133,37.0,,8.8,0.97,,,Dune and Dry Interdune Origin,NM
+1134,37.0,,16.1,7,,,Dune and Dry Interdune Origin,NM
+1135,37.0,,17.6,9,,,Dune and Dry Interdune Origin,NM
+1136,37.0,,16.7,16,,,Dune and Dry Interdune Origin,NM
+1137,37.0,,17.1,25,,,Dune and Dry Interdune Origin,NM
+1138,37.0,,19.5,23,,,Dune and Dry Interdune Origin,NM
+1139,37.0,,19.3,288,,,Dune and Dry Interdune Origin,NM
+1140,37.0,,15.9,58,,,Dune and Dry Interdune Origin,NM
+1141,37.0,,11.2,8,,,Dune and Dry Interdune Origin,NM
+1142,37.0,,16.5,15,,,Dune and Dry Interdune Origin,NM
+1143,37.0,,16.2,13,,,Dune and Dry Interdune Origin,NM
+1144,37.0,,16.2,21,,,Dune and Dry Interdune Origin,NM
+1145,37.0,,15.8,26,,,Dune and Dry Interdune Origin,NM
+1146,37.0,,15.9,30,,,Dune and Dry Interdune Origin,NM
+1147,37.0,,15.7,196,,,Dune and Dry Interdune Origin,NM
+1148,37.0,,14.8,204,,,Dune and Dry Interdune Origin,NM
+1149,37.0,,15.2,810,,,Dune and Dry Interdune Origin,NM
+1150,37.0,,15.3,402,,,Dune and Dry Interdune Origin,NM
+1151,37.0,,8.3,0.67,,,Dune and Dry Interdune Origin,NM
+1152,37.0,,8.6,0.13,,,Dune and Dry Interdune Origin,NM
+1153,37.0,,10.8,1.7,,,Dune and Dry Interdune Origin,NM
+1154,37.0,,10.2,0.18,,,Dune and Dry Interdune Origin,NM
+1155,37.0,,11,0.71,,,Dune and Dry Interdune Origin,NM
+1156,37.0,,8.7,0.87,,,Dune and Dry Interdune Origin,NM
+1157,37.0,,10.3,0.82,,,Dune and Dry Interdune Origin,NM
+1158,37.0,,10.6,0.79,,,Dune and Dry Interdune Origin,NM
+1159,37.0,,12.5,1.1,,,Dune and Dry Interdune Origin,NM
+1160,37.0,,12.6,1.2,,,Dune and Dry Interdune Origin,NM
+1161,37.0,,12.7,0.92,,,Dune and Dry Interdune Origin,NM
+1162,37.0,,7.5,0.05,,,Dune and Dry Interdune Origin,NM
+1163,37.0,,8.7,0.3,,,Dune and Dry Interdune Origin,NM
+1164,37.0,,10.4,0.46,,,Dune and Dry Interdune Origin,NM
+1165,37.0,,11,1.3,,,Dune and Dry Interdune Origin,NM
+1166,37.0,,7,1.1,,,Dune and Dry Interdune Origin,NM
+1167,37.0,,9.9,0.08,,,Dune and Dry Interdune Origin,NM
+1168,37.0,,8.7,0.06,,,Dune and Dry Interdune Origin,NM
+1169,37.0,,9.5,0.12,,,Dune and Dry Interdune Origin,NM
+1170,37.0,,14.6,2.5,,,Dune and Dry Interdune Origin,NM
+1171,37.0,,15.1,1.9,,,Dune and Dry Interdune Origin,NM
+1172,37.0,,15.2,2.8,,,Dune and Dry Interdune Origin,NM
+1173,37.0,,9.2,0.09,,,Dune and Dry Interdune Origin,NM
+1174,37.0,,9.1,0.11,,,Dune and Dry Interdune Origin,NM
+1175,37.0,,12.7,0.24,,,Dune and Dry Interdune Origin,NM
+1176,37.0,,13.9,0.45,,,Dune and Dry Interdune Origin,NM
+1177,37.0,,12.9,0.43,,,Dune and Dry Interdune Origin,NM
+1178,37.0,,10,0.15,,,Dune and Dry Interdune Origin,NM
+1179,37.0,,14.6,0.97,,,Dune and Dry Interdune Origin,NM
+1180,37.0,,8.9,0.12,,,Dune and Dry Interdune Origin,NM
+1181,37.0,,5.7,0.03,,,Dune and Dry Interdune Origin,NM
+1182,37.0,,9.9,0.13,,,Dune and Dry Interdune Origin,NM
+1183,37.0,,9,0.17,,,Dune and Dry Interdune Origin,NM
+1184,37.0,,7.3,0.1,,,Dune and Dry Interdune Origin,NM
+1185,37.0,,10.5,0.25,,,Dune and Dry Interdune Origin,NM
+1186,37.0,,10.7,0.14,,,Dune and Dry Interdune Origin,NM
+1187,37.0,,10.8,0.35,,,Dune and Dry Interdune Origin,NM
+1188,37.0,,11.9,0.47,,,Dune and Dry Interdune Origin,NM
+1189,37.0,,10.9,1.4,,,Dune and Dry Interdune Origin,NM
+1190,37.0,,8.6,0.08,,,Dune and Dry Interdune Origin,NM
+1191,37.0,,6.8,0.04,,,Dune and Dry Interdune Origin,NM
+1192,37.0,,7.3,0.03,,,Dune and Dry Interdune Origin,NM
+1193,37.0,,8.5,0.07,,,Dune and Dry Interdune Origin,NM
+1194,37.0,,8.9,0.08,,,Dune and Dry Interdune Origin,NM
+1195,37.0,,8.2,0.1,,,Dune and Dry Interdune Origin,NM
+1196,37.0,,8.3,0.08,,,Dune and Dry Interdune Origin,NM
+1197,37.0,,6.8,0.05,,,Dune and Dry Interdune Origin,NM
+1198,37.0,,5.1,0.03,,,Dune and Dry Interdune Origin,NM
+1199,37.0,,6.3,0.02,,,Dune and Dry Interdune Origin,NM
+1200,37.0,,6,0.02,,,Dune and Dry Interdune Origin,NM
+1201,37.0,,6.8,0.03,,,Dune and Dry Interdune Origin,NM
+1202,37.0,,6.2,0.03,,,Dune and Dry Interdune Origin,NM
+1203,37.0,,8.5,0.04,,,Dune and Dry Interdune Origin,NM
+1204,37.0,,7.9,0.04,,,Dune and Dry Interdune Origin,NM
+1205,37.0,,6.6,0.03,,,Dune and Dry Interdune Origin,NM
+1206,37.0,,8.7,0.04,,,Dune and Dry Interdune Origin,NM
+1207,37.0,,7.9,0.03,,,Dune and Dry Interdune Origin,NM
+1208,37.0,,7.6,0.04,,,Dune and Dry Interdune Origin,NM
+1209,37.0,,6,0.02,,,Dune and Dry Interdune Origin,NM
+1210,37.0,,4.7,0.01,,,Non-Dune Origin,NM
+1211,37.0,,5.1,0.01,,,Non-Dune Origin,NM
+1212,37.0,,5,0.01,,,Non-Dune Origin,NM
+1213,37.0,,6.2,0.13,,,Dune and Dry Interdune Origin,NM
+1214,37.0,,6.2,0.02,,,Dune and Dry Interdune Origin,NM
+1215,37.0,,8.4,0.06,,,Dune and Dry Interdune Origin,NM
+1216,37.0,,7.4,0.03,,,Dune and Dry Interdune Origin,NM
+1217,37.0,,6.6,0.04,,,Dune and Dry Interdune Origin,NM
+1218,37.0,,6.2,0.03,,,Dune and Dry Interdune Origin,NM
+1219,37.0,,6.9,0.03,,,Dune and Dry Interdune Origin,NM
+1220,37.0,,6.1,0.03,,,Dune and Dry Interdune Origin,NM
+1221,37.0,,6.6,0.02,,,Dune and Dry Interdune Origin,NM
+1222,37.0,,6.2,0.02,,,Dune and Dry Interdune Origin,NM
+1223,37.0,,6.7,0.03,,,Dune and Dry Interdune Origin,NM
+1224,37.0,,6.5,0.03,,,Dune and Dry Interdune Origin,NM
+1225,37.0,,5.4,0.02,,,Dune and Dry Interdune Origin,NM
+1226,37.0,,4.5,0.01,,,Non-Dune Origin,NM
+1227,37.0,,5,0.01,,,Non-Dune Origin,NM
+1228,37.0,,5.4,0.02,,,Non-Dune Origin,NM
+1229,37.0,,5.4,0.01,,,Non-Dune Origin,NM
+1230,37.0,,6,0.02,,,Dune and Dry Interdune Origin,NM
+1231,37.0,,5,0.01,,,Non-Dune Origin,NM
+1232,37.0,,4.7,0.02,,,Dune and Dry Interdune Origin,NM
+1233,37.0,,5.6,0.04,,,Dune and Dry Interdune Origin,NM
+1234,37.0,,4.3,0.01,,,Non-Dune Origin,NM
+1235,37.0,,5.4,0.04,,,Dune and Dry Interdune Origin,NM
+1236,37.0,,4.2,0.02,,,Non-Dune Origin,NM
+1237,37.0,,5.2,0.02,,,Non-Dune Origin,NM
+1238,37.0,,7.9,0.08,,,Dune and Dry Interdune Origin,NM
+1239,37.0,,6.9,0.04,,,Dune and Dry Interdune Origin,NM
+1240,37.0,,8.7,0.05,,,Dune and Dry Interdune Origin,NM
+1241,37.0,,7.6,0.03,,,Dune and Dry Interdune Origin,NM
+1242,37.0,,8.4,0.05,,,Dune and Dry Interdune Origin,NM
+1243,37.0,,8.9,0.06,,,Dune and Dry Interdune Origin,NM
+1244,37.0,,9.6,0.08,,,Dune and Dry Interdune Origin,NM
+1245,37.0,,9.2,0.05,,,Dune and Dry Interdune Origin,NM
+1246,37.0,,9.9,0.05,,,Dune and Dry Interdune Origin,NM
+1247,37.0,,9.9,0.05,,,Dune and Dry Interdune Origin,NM
+1248,37.0,,8.1,0.04,,,Dune and Dry Interdune Origin,NM
+1249,37.0,,7.8,0.04,,,Dune and Dry Interdune Origin,NM
+1250,37.0,,7.8,0.03,,,Dune and Dry Interdune Origin,NM
+1251,37.0,,7.5,0.08,,,Dune and Dry Interdune Origin,NM
+1252,37.0,,5.5,0.02,,,Dune and Dry Interdune Origin,NM
+1253,37.0,,5.5,0.02,,,Dune and Dry Interdune Origin,NM
+1254,37.0,,5.3,0.01,,,Dune and Dry Interdune Origin,NM
+1255,37.0,,8.1,0.04,,,Dune and Dry Interdune Origin,NM
+1256,37.0,,8.1,0.07,,,Dune and Dry Interdune Origin,NM
+1257,37.0,,7.6,0.05,,,Dune and Dry Interdune Origin,NM
+1258,37.0,,7.5,0.03,,,Dune and Dry Interdune Origin,NM
+1259,37.0,,8.6,0.05,,,Dune and Dry Interdune Origin,NM
+1260,37.0,,8.9,0.08,,,Dune and Dry Interdune Origin,NM
+1261,37.0,,6.9,0.05,,,Dune and Dry Interdune Origin,NM
+1262,37.0,,6,0.03,,,Non-Dune Origin,NM
+1263,37.0,,5.9,0.03,,,Non-Dune Origin,NM
+1264,37.0,,7,0.03,,,Non-Dune Origin,NM
+1265,37.0,,5.1,0.03,,,Non-Dune Origin,NM
+1266,37.0,,5.8,0.04,,,Non-Dune Origin,NM
+1267,37.0,,4.9,0.03,,,Non-Dune Origin,NM
+1268,37.0,,3.6,0.01,,,Non-Dune Origin,NM
+1269,37.0,,9.1,0.14,,,Dune and Dry Interdune Origin,NM
+1270,37.0,,6.6,0.02,,,Non-Dune Origin,NM
+1271,37.0,,4.6,0.03,,,Non-Dune Origin,NM
+1272,37.0,,6.2,0.01,,,Non-Dune Origin,NM
+1273,37.0,,5.5,0.02,,,Non-Dune Origin,NM
+1274,37.0,,4.4,0.02,,,Non-Dune Origin,NM
+1275,37.0,,5.9,0.02,,,Dune and Dry Interdune Origin,NM
+1276,37.0,,5.8,0.02,,,Dune and Dry Interdune Origin,NM
+1277,37.0,,3.7,0.03,,,Dune and Dry Interdune Origin,NM
+1278,37.0,,8,0.04,,,Dune and Dry Interdune Origin,NM
+1279,37.0,,5.4,0.02,,,Dune and Dry Interdune Origin,NM
+1280,37.0,,4.8,0.01,,,Dune and Dry Interdune Origin,NM
+1281,37.0,,4.7,0.02,,,Dune and Dry Interdune Origin,NM
+1282,37.0,,4.4,0.01,,,Dune and Dry Interdune Origin,NM
+1283,37.0,,6.6,0.05,,,Dune and Dry Interdune Origin,NM
+1284,37.0,,5.5,0.01,,,Dune and Dry Interdune Origin,NM
+1285,37.0,,6.3,0.02,,,Dune and Dry Interdune Origin,NM
+1286,37.0,,6.4,0.02,,,Dune and Dry Interdune Origin,NM
+1287,37.0,,7,0.02,,,Dune and Dry Interdune Origin,NM
+1288,37.0,,6.3,0.02,,,Dune and Dry Interdune Origin,NM
+1289,37.0,,5.4,0.02,,,Non-Dune Origin,NM
+1290,37.0,,5.8,0.01,,,Non-Dune Origin,NM
+1291,37.0,,6.3,0.02,,,Dune and Dry Interdune Origin,NM
+1292,37.0,,9,0.06,,,Dune and Dry Interdune Origin,NM
+1293,37.0,,10.4,0.09,,,Dune and Dry Interdune Origin,NM
+1294,37.0,,5.1,0.01,,,Non-Dune Origin,NM
+1295,37.0,,6.3,0.02,,,Non-Dune Origin,NM
+1296,37.0,,5.8,0.02,,,Non-Dune Origin,NM
+1297,37.0,,6.5,0.02,,,Non-Dune Origin,NM
+1298,37.0,,7.3,0.03,,,Dune and Dry Interdune Origin,NM
+1299,37.0,,11.9,0.09,,,Dune and Dry Interdune Origin,NM
+1300,37.0,,9,0.08,,,Dune and Dry Interdune Origin,NM
+1301,37.0,,10.2,0.07,,,Dune and Dry Interdune Origin,NM
+1302,37.0,,9.1,0.06,,,Dune and Dry Interdune Origin,NM
+1303,37.0,,8,0.06,,,Dune and Dry Interdune Origin,NM
+1304,37.0,,8.2,0.05,,,Dune and Dry Interdune Origin,NM
+1305,37.0,,6.6,0.02,,,Dune and Dry Interdune Origin,NM
+1306,37.0,,6.1,0.03,,,Dune and Dry Interdune Origin,NM
+1307,37.0,,6.2,0.03,,,Dune and Dry Interdune Origin,NM
+1308,37.0,,10,0.09,,,Dune and Dry Interdune Origin,NM
+1309,37.0,,7.7,0.05,,,Dune and Dry Interdune Origin,NM
+1310,37.0,,10.2,0.09,,,Dune and Dry Interdune Origin,NM
+1311,37.0,,10.7,0.12,,,Dune and Dry Interdune Origin,NM
+1312,37.0,,8.7,0.06,,,Dune and Dry Interdune Origin,NM
+1313,37.0,,9.9,0.09,,,Dune and Dry Interdune Origin,NM
+1314,37.0,,8,0.06,,,Dune and Dry Interdune Origin,NM
+1315,37.0,,12.1,0.19,,,Dune and Dry Interdune Origin,NM
+1316,37.0,,7.9,0.05,,,Dune and Dry Interdune Origin,NM
+1317,37.0,,11.6,0.12,,,Dune and Dry Interdune Origin,NM
+1318,37.0,,11.2,0.12,,,Dune and Dry Interdune Origin,NM
+1319,37.0,,11,0.13,,,Dune and Dry Interdune Origin,NM
+1320,37.0,,6.9,0.03,,,Dune and Dry Interdune Origin,NM
+1321,37.0,,7.4,0.03,,,Dune and Dry Interdune Origin,NM
+1322,37.0,,7.7,0.05,,,Dune and Dry Interdune Origin,NM
+1323,37.0,,9.2,0.08,,,Dune and Dry Interdune Origin,NM
+1324,37.0,,10.2,0.11,,,Dune and Dry Interdune Origin,NM
+1325,37.0,,10.7,0.09,,,Dune and Dry Interdune Origin,NM
+1326,37.0,,10.3,0.08,,,Dune and Dry Interdune Origin,NM
+1327,37.0,,6.8,0.04,,,Dune and Dry Interdune Origin,NM
+1328,37.0,,11.2,0.1,,,Dune and Dry Interdune Origin,NM
+1329,37.0,,6.1,0.05,,,Dune and Dry Interdune Origin,NM
+1330,37.0,,9.3,0.06,,,Dune and Dry Interdune Origin,NM
+1331,37.0,,5.9,0.03,,,Non-Dune Origin,NM
+1332,37.0,,5.8,0.02,,,Non-Dune Origin,NM
+1333,37.0,,6.1,0.04,,,Non-Dune Origin,NM
+1334,37.0,,6.7,0.03,,,Non-Dune Origin,NM
+1335,37.0,,5.4,0.08,,,Non-Dune Origin,NM
+1336,37.0,,6.2,0.02,,,Non-Dune Origin,NM

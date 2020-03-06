@@ -1,0 +1,104 @@
+,DATASET,ID,PORO,PERM,GRAINSIZE,GRAINSIZE.1,EOD,EOD_NMT,Unnamed: 8,EXTRA
+0,,,(%),(md),(mm),categ,,,,
+1,35.0,,7.8,0.001318256738556407,,,fluvial,NM,,Square -- DGI B
+2,35.0,,7.95,0.003548133892335753,,,fluvial,NM,,Square -- DGI B
+3,35.0,,11.5,0.008511380382023767,,,fluvial,NM,,Square -- DGI B
+4,35.0,,11.5,0.017782794100389226,,,fluvial,NM,,Square -- DGI B
+5,35.0,,9.2,0.001949844599758044,,,fluvial,NM,,Diamond -- DGI C
+6,35.0,,10,0.007943282347242812,,,fluvial,NM,,Diamond -- DGI C
+7,35.0,,10.8,0.00758577575029183,,,fluvial,NM,,Diamond -- DGI C
+8,35.0,,9,0.07079457843841379,,,fluvial,NM,,Diamond -- DGI C
+9,35.0,,9.25,0.06165950018614822,,,fluvial,NM,,Diamond -- DGI C
+10,35.0,,10.2,0.031622776601683784,,,fluvial,NM,,Diamond -- DGI C
+11,35.0,,12.3,0.015488166189124804,,,fluvial,NM,,Diamond -- DGI C
+12,35.0,,13.5,0.07079457843841379,,,fluvial,NM,,Diamond -- DGI C
+13,35.0,,9.5,0.31622776601683794,,,fluvial,NM,,Diamond -- DGI C
+14,35.0,,10.3,0.2290867652767773,,,fluvial,NM,,Diamond -- DGI C
+15,35.0,,11,0.15848931924611132,,,fluvial,NM,,Diamond -- DGI C
+16,35.0,,12,0.16218100973589297,,,fluvial,NM,,Diamond -- DGI C
+17,35.0,,12.9,0.10471285480508996,,,fluvial,NM,,Diamond -- DGI C
+18,35.0,,11.5,0.31622776601683794,,,fluvial,NM,,Diamond -- DGI C
+19,35.0,,11.9,0.41686938347033536,,,fluvial,NM,,Diamond -- DGI C
+20,35.0,,12.7,0.5011872336272722,,,fluvial,NM,,Diamond -- DGI C
+21,35.0,,13.25,0.5011872336272722,,,fluvial,NM,,Diamond -- DGI C
+22,35.0,,10.4,0.7079457843841379,,,fluvial,NM,,Diamond -- DGI C
+23,35.0,,11.8,0.6456542290346554,,,fluvial,NM,,Diamond -- DGI C
+24,35.0,,12.7,0.660693448007596,,,fluvial,NM,,Diamond -- DGI C
+25,35.0,,14.25,1.1220184543019636,,,fluvial,NM,,Diamond -- DGI C
+26,35.0,,13.45,2.137962089502232,,,fluvial,NM,,Diamond -- DGI C
+27,35.0,,13.8,2.2387211385683394,,,fluvial,NM,,Diamond -- DGI C
+28,35.0,,14.25,3.3113112148259116,,,fluvial,NM,,Diamond -- DGI C
+29,35.0,,14.6,6.165950018614823,,,fluvial,NM,,Diamond -- DGI C
+30,35.0,,14.2,10.715193052376069,,,fluvial,NM,,Diamond -- DGI C
+31,35.0,,14.45,10.715193052376069,,,fluvial,NM,,Diamond -- DGI C
+32,35.0,,17.1,33.88441561392027,,,fluvial,NM,,Diamond -- DGI C
+33,35.0,,16.2,21.379620895022335,,,fluvial,NM,,Diamond -- DGI C
+34,35.0,,7.8,0.0794328234724281,,,fluvial,NM,,Up Triangle -- DGI D
+35,35.0,,7.6,0.22387211385683392,,,fluvial,NM,,Up Triangle -- DGI D
+36,35.0,,11.4,0.12589254117941667,,,fluvial,NM,,Up Triangle -- DGI D
+37,35.0,,12.6,0.4786300923226383,,,fluvial,NM,,Up Triangle -- DGI D
+38,35.0,,15.75,0.5623413251903491,,,fluvial,NM,,Up Triangle -- DGI D
+39,35.0,,12.4,7.943282347242818,,,fluvial,NM,,Up Triangle -- DGI D
+40,35.0,,12.6,11.220184543019636,,,fluvial,NM,,Up Triangle -- DGI D
+41,35.0,,14.9,1.5848931924611136,,,fluvial,NM,,Up Triangle -- DGI D
+42,35.0,,14.9,3.9810717055349727,,,fluvial,NM,,Up Triangle -- DGI D
+43,35.0,,15.4,1.2589254117941673,,,fluvial,NM,,Up Triangle -- DGI D
+44,35.0,,14.5,17.782794100389236,,,fluvial,NM,,Up Triangle -- DGI D
+45,35.0,,15.3,28.183829312644548,,,fluvial,NM,,Up Triangle -- DGI D
+46,35.0,,15.5,19.952623149688804,,,fluvial,NM,,Up Triangle -- DGI D
+47,35.0,,15.75,10.964781961431854,,,fluvial,NM,,Up Triangle -- DGI D
+48,35.0,,15.95,13.489628825916535,,,fluvial,NM,,Up Triangle -- DGI D
+49,35.0,,16.2,7.943282347242818,,,fluvial,NM,,Up Triangle -- DGI D
+50,35.0,,16.3,9.33254300796991,,,fluvial,NM,,Up Triangle -- DGI D
+51,35.0,,16.2,28.183829312644548,,,fluvial,NM,,Up Triangle -- DGI D
+52,35.0,,17.4,20.8929613085404,,,fluvial,NM,,Up Triangle -- DGI D
+53,35.0,,18.2,12.882495516931346,,,fluvial,NM,,Up Triangle -- DGI D
+54,35.0,,18.4,9.33254300796991,,,fluvial,NM,,Up Triangle -- DGI D
+55,35.0,,18.5,17.782794100389236,,,fluvial,NM,,Up Triangle -- DGI D
+56,35.0,,18.7,14.125375446227544,,,fluvial,NM,,Up Triangle -- DGI D
+57,35.0,,16.9,35.481338923357555,,,fluvial,NM,,Up Triangle -- DGI D
+58,35.0,,16.9,38.01893963205614,,,fluvial,NM,,Up Triangle -- DGI D
+59,35.0,,16.9,40.7380277804113,,,fluvial,NM,,Up Triangle -- DGI D
+60,35.0,,17,50.11872336272724,,,fluvial,NM,,Up Triangle -- DGI D
+61,35.0,,17.5,44.668359215096324,,,fluvial,NM,,Up Triangle -- DGI D
+62,35.0,,17.95,38.01893963205614,,,fluvial,NM,,Up Triangle -- DGI D
+63,35.0,,18.3,39.810717055349755,,,fluvial,NM,,Up Triangle -- DGI D
+64,35.0,,18.4,50.11872336272724,,,fluvial,NM,,Up Triangle -- DGI D
+65,35.0,,18.8,35.481338923357555,,,fluvial,NM,,Up Triangle -- DGI D
+66,35.0,,17.8,72.44359600749907,,,fluvial,NM,,Up Triangle -- DGI D
+67,35.0,,18.2,70.79457843841386,,,fluvial,NM,,Up Triangle -- DGI D
+68,35.0,,18.6,60.25595860743582,,,fluvial,NM,,Up Triangle -- DGI D
+69,35.0,,18.7,64.56542290346559,,,fluvial,NM,,Up Triangle -- DGI D
+70,35.0,,19.5,51.28613839913649,,,fluvial,NM,,Up Triangle -- DGI D
+71,35.0,,17.8,112.20184543019634,,,fluvial,NM,,Up Triangle -- DGI D
+72,35.0,,18.4,112.20184543019634,,,fluvial,NM,,Up Triangle -- DGI D
+73,35.0,,18.9,112.20184543019634,,,fluvial,NM,,Up Triangle -- DGI D
+74,35.0,,19.3,109.6478196143186,,,fluvial,NM,,Up Triangle -- DGI D
+75,35.0,,19.6,15.848931924611136,,,fluvial,NM,,Down Triangle -- DGI E
+76,35.0,,17.4,30.90295432513592,,,fluvial,NM,,Down Triangle -- DGI E
+77,35.0,,18,83.17637711026713,,,fluvial,NM,,Down Triangle -- DGI E
+78,35.0,,20.2,89.12509381337456,,,fluvial,NM,,Down Triangle -- DGI E
+79,35.0,,20.75,87.09635899560807,,,fluvial,NM,,Down Triangle -- DGI E
+80,35.0,,19.85,177.82794100389242,,,fluvial,NM,,Down Triangle -- DGI E
+81,35.0,,20.4,181.9700858609983,,,fluvial,NM,,Down Triangle -- DGI E
+82,35.0,,20.7,245.4708915685033,,,fluvial,NM,,Down Triangle -- DGI E
+83,35.0,,20.9,208.92961308540396,,,fluvial,NM,,Down Triangle -- DGI E
+84,35.0,,20.9,288.4031503126607,,,fluvial,NM,,Down Triangle -- DGI E
+85,35.0,,19.6,125.89254117941677,,,fluvial,NM,,Circle -- DGI F
+86,35.0,,20.4,89.12509381337456,,,fluvial,NM,,Circle -- DGI F
+87,35.0,,20.8,107.15193052376065,,,fluvial,NM,,Circle -- DGI F
+88,35.0,,20.8,131.82567385564084,,,fluvial,NM,,Circle -- DGI F
+89,35.0,,20.5,151.3561248436209,,,fluvial,NM,,Circle -- DGI F
+90,35.0,,20.3,165.95869074375622,,,fluvial,NM,,Circle -- DGI F
+91,35.0,,21.25,338.8441561392025,,,fluvial,NM,,Circle -- DGI F
+92,35.0,,21.5,338.8441561392025,,,fluvial,NM,,Circle -- DGI F
+93,35.0,,21,213.7962089502234,,,fluvial,NM,,Circle -- DGI F
+94,35.0,,21.7,204.17379446695315,,,fluvial,NM,,Circle -- DGI F
+95,35.0,,22.1,239.88329190194912,,,fluvial,NM,,Circle -- DGI F
+96,35.0,,22.4,239.88329190194912,,,fluvial,NM,,Circle -- DGI F
+97,35.0,,22.5,223.87211385683412,,,fluvial,NM,,Circle -- DGI F
+98,35.0,,22.75,281.83829312644554,,,fluvial,NM,,Circle -- DGI F
+99,35.0,,23.2,338.8441561392025,,,fluvial,NM,,Circle -- DGI F
+100,35.0,,23.5,346.7368504525318,,,fluvial,NM,,Circle -- DGI F
+101,35.0,,23.6,407.3802778041127,,,fluvial,NM,,Circle -- DGI F
+102,35.0,,23.75,407.3802778041127,,,fluvial,NM,,Circle -- DGI F

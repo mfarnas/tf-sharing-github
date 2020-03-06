@@ -1,0 +1,183 @@
+,DATASET,ID,PORO,PERM,GRAINSIZE,GRAINSIZE.1,EOD,EOD_NMT,Unnamed: 8,GRAINSIZE_ORI
+0,,,(%),(md),(mm),categ,,,,categ
+1,57.0,,20.5,158.48931924611153,,c,,M,,squares -- coarse-grained
+2,57.0,,21.2,363.0780547701015,,c,,M,,squares -- coarse-grained
+3,57.0,,22.6,630.9573444801932,,c,,M,,squares -- coarse-grained
+4,57.0,,4,0.1,,m,,M,,plus sign -- medium-grained
+5,57.0,,5.2,0.1,,m,,M,,plus sign -- medium-grained
+6,57.0,,6.5,0.1,,m,,M,,plus sign -- medium-grained
+7,57.0,,7,0.1,,m,,M,,plus sign -- medium-grained
+8,57.0,,10.5,0.19952623149688795,,m,,M,,plus sign -- medium-grained
+9,57.0,,12.4,0.3548133892335754,,m,,M,,plus sign -- medium-grained
+10,57.0,,13.7,0.1,,m,,M,,plus sign -- medium-grained
+11,57.0,,14.1,0.28840315031266056,,m,,M,,plus sign -- medium-grained
+12,57.0,,15.2,0.19952623149688795,,m,,M,,plus sign -- medium-grained
+13,57.0,,16.7,30.90295432513592,,m,,M,,plus sign -- medium-grained
+14,57.0,,16.95,281.83829312644554,,m,,M,,plus sign -- medium-grained
+15,57.0,,17.2,69.18309709189366,,m,,M,,plus sign -- medium-grained
+16,57.0,,17.3,3.467368504525317,,m,,M,,plus sign -- medium-grained
+17,57.0,,17.5,14.125375446227544,,m,,M,,plus sign -- medium-grained
+18,57.0,,17.6,20.4173794466953,,m,,M,,plus sign -- medium-grained
+19,57.0,,18.1,77.62471166286922,,m,,M,,plus sign -- medium-grained
+20,57.0,,18.6,147.91083881682084,,m,,M,,plus sign -- medium-grained
+21,57.0,,18.7,1023.2929922807547,,m,,M,,plus sign -- medium-grained
+22,57.0,,18.8,380.1893963205616,,m,,M,,plus sign -- medium-grained
+23,57.0,,19,213.7962089502234,,m,,M,,plus sign -- medium-grained
+24,57.0,,19.1,20.8929613085404,,m,,M,,plus sign -- medium-grained
+25,57.0,,20,707.9457843841387,,m,,M,,plus sign -- medium-grained
+26,57.0,,20,7.0794578438413795,,m,,M,,plus sign -- medium-grained
+27,57.0,,20.2,239.88329190194912,,m,,M,,plus sign -- medium-grained
+28,57.0,,20.8,7.943282347242818,,m,,M,,plus sign -- medium-grained
+29,57.0,,20.9,3.0902954325135905,,m,,M,,plus sign -- medium-grained
+30,57.0,,21.2,9.33254300796991,,m,,M,,plus sign -- medium-grained
+31,57.0,,21.5,218.77616239495524,,m,,M,,plus sign -- medium-grained
+32,57.0,,21.6,269.1534803926918,,m,,M,,plus sign -- medium-grained
+33,57.0,,21.6,316.22776601683825,,m,,M,,plus sign -- medium-grained
+34,57.0,,21.6,10.715193052376069,,m,,M,,plus sign -- medium-grained
+35,57.0,,21.85,177.82794100389242,,m,,M,,plus sign -- medium-grained
+36,57.0,,21.9,257.03957827688663,,m,,M,,plus sign -- medium-grained
+37,57.0,,21.95,269.1534803926918,,m,,M,,plus sign -- medium-grained
+38,57.0,,22.2,125.89254117941677,,m,,M,,plus sign -- medium-grained
+39,57.0,,23,524.8074602497729,,m,,M,,plus sign -- medium-grained
+40,57.0,,23.2,104.71285480508998,,m,,M,,plus sign -- medium-grained
+41,57.0,,23.5,123.02687708123821,,m,,M,,plus sign -- medium-grained
+42,57.0,,23.5,234.42288153199232,,m,,M,,plus sign -- medium-grained
+43,57.0,,23.6,239.88329190194912,,m,,M,,plus sign -- medium-grained
+44,57.0,,23.8,251.18864315095806,,m,,M,,plus sign -- medium-grained
+45,57.0,,24.1,416.8693834703357,,m,,M,,plus sign -- medium-grained
+46,57.0,,24.7,83.17637711026713,,m,,M,,plus sign -- medium-grained
+47,57.0,,25.05,316.22776601683825,,m,,M,,plus sign -- medium-grained
+48,57.0,,25.9,1258.925411794168,,m,,M,,plus sign -- medium-grained
+49,57.0,,27.2,537.031796370253,,m,,M,,plus sign -- medium-grained
+50,57.0,,28,100,,m,,M,,plus sign -- medium-grained
+51,57.0,,28.5,158.48931924611153,,m,,M,,plus sign -- medium-grained
+52,57.0,,28.5,537.031796370253,,m,,M,,plus sign -- medium-grained
+53,57.0,,28.8,645.6542290346559,,m,,M,,plus sign -- medium-grained
+54,57.0,,1.2,0.01,,f,,M,,open circle -- fine-grained
+55,57.0,,2.4,0.01,,f,,M,,open circle -- fine-grained
+56,57.0,,3.2,0.01,,f,,M,,open circle -- fine-grained
+57,57.0,,3.5,0.01,,f,,M,,open circle -- fine-grained
+58,57.0,,4.2,0.01,,f,,M,,open circle -- fine-grained
+59,57.0,,4.7,0.010471285480508989,,f,,M,,open circle -- fine-grained
+60,57.0,,4.7,0.01,,f,,M,,open circle -- fine-grained
+61,57.0,,4.9,0.01,,f,,M,,open circle -- fine-grained
+62,57.0,,5.2,0.01,,f,,M,,open circle -- fine-grained
+63,57.0,,5.4,0.01,,f,,M,,open circle -- fine-grained
+64,57.0,,6.1,0.3981071705534972,,f,,M,,open circle -- fine-grained
+65,57.0,,6.8,0.01,,f,,M,,open circle -- fine-grained
+66,57.0,,7.1,0.09549925860214356,,f,,M,,open circle -- fine-grained
+67,57.0,,7.1,0.01,,f,,M,,open circle -- fine-grained
+68,57.0,,7.3,0.10715193052376064,,f,,M,,open circle -- fine-grained
+69,57.0,,7.3,0.01,,f,,M,,open circle -- fine-grained
+70,57.0,,7.5,0.019952623149688792,,f,,M,,open circle -- fine-grained
+71,57.0,,7.5,0.05888436553555888,,f,,M,,open circle -- fine-grained
+72,57.0,,7.6,0.01,,f,,M,,open circle -- fine-grained
+73,57.0,,8.2,0.01,,f,,M,,open circle -- fine-grained
+74,57.0,,8.5,0.019952623149688792,,f,,M,,open circle -- fine-grained
+75,57.0,,8.5,0.01,,f,,M,,open circle -- fine-grained
+76,57.0,,9.3,0.01,,f,,M,,open circle -- fine-grained
+77,57.0,,9.5,0.10715193052376064,,f,,M,,open circle -- fine-grained
+78,57.0,,9.7,0.01,,f,,M,,open circle -- fine-grained
+79,57.0,,10.1,0.01,,f,,M,,open circle -- fine-grained
+80,57.0,,10.5,0.09772372209558106,,f,,M,,open circle -- fine-grained
+81,57.0,,10.5,0.01,,f,,M,,open circle -- fine-grained
+82,57.0,,11,0.10471285480508996,,f,,M,,open circle -- fine-grained
+83,57.0,,11.5,0.019952623149688792,,f,,M,,open circle -- fine-grained
+84,57.0,,11.85,0.01,,f,,M,,open circle -- fine-grained
+85,57.0,,12.6,0.19952623149688795,,f,,M,,open circle -- fine-grained
+86,57.0,,12.7,0.10471285480508996,,f,,M,,open circle -- fine-grained
+87,57.0,,12.8,0.10471285480508996,,f,,M,,open circle -- fine-grained
+88,57.0,,12.8,0.03981071705534973,,f,,M,,open circle -- fine-grained
+89,57.0,,13.5,0.10471285480508996,,f,,M,,open circle -- fine-grained
+90,57.0,,13.6,0.19952623149688795,,f,,M,,open circle -- fine-grained
+91,57.0,,14.4,0.19952623149688795,,f,,M,,open circle -- fine-grained
+92,57.0,,14.8,0.14791083881682074,,f,,M,,open circle -- fine-grained
+93,57.0,,14.9,7.0794578438413795,,f,,M,,open circle -- fine-grained
+94,57.0,,14.9,0.19952623149688795,,f,,M,,open circle -- fine-grained
+95,57.0,,15.3,1.202264434617413,,f,,M,,open circle -- fine-grained
+96,57.0,,15.4,0.2041737944669529,,f,,M,,open circle -- fine-grained
+97,57.0,,15.5,2.2387211385683394,,f,,M,,open circle -- fine-grained
+98,57.0,,15.8,15.135612484362087,,f,,M,,open circle -- fine-grained
+99,57.0,,16.1,0.2951209226666385,,f,,M,,open circle -- fine-grained
+100,57.0,,16.1,0.4073802778041127,,f,,M,,open circle -- fine-grained
+101,57.0,,16.6,0.1,,f,,M,,open circle -- fine-grained
+102,57.0,,16.7,1.4125375446227544,,f,,M,,open circle -- fine-grained
+103,57.0,,16.7,0.31622776601683794,,f,,M,,open circle -- fine-grained
+104,57.0,,16.8,79.4328234724282,,f,,M,,open circle -- fine-grained
+105,57.0,,16.8,7.0794578438413795,,f,,M,,open circle -- fine-grained
+106,57.0,,16.95,15.848931924611136,,f,,M,,open circle -- fine-grained
+107,57.0,,17,70.79457843841386,,f,,M,,open circle -- fine-grained
+108,57.0,,17.3,31.622776601683803,,f,,M,,open circle -- fine-grained
+109,57.0,,17.6,134.89628825916537,,f,,M,,open circle -- fine-grained
+110,57.0,,17.7,6.606934480075961,,f,,M,,open circle -- fine-grained
+111,57.0,,17.8,109.6478196143186,,f,,M,,open circle -- fine-grained
+112,57.0,,18,9.120108393559098,,f,,M,,open circle -- fine-grained
+113,57.0,,18.2,1.288249551693134,,f,,M,,open circle -- fine-grained
+114,57.0,,18.3,50.11872336272724,,f,,M,,open circle -- fine-grained
+115,57.0,,18.3,1.5848931924611136,,f,,M,,open circle -- fine-grained
+116,57.0,,18.8,1.9952623149688797,,f,,M,,open circle -- fine-grained
+117,57.0,,19.1,128.82495516931343,,f,,M,,open circle -- fine-grained
+118,57.0,,19.1,56.234132519034915,,f,,M,,open circle -- fine-grained
+119,57.0,,19.1,2.5118864315095806,,f,,M,,open circle -- fine-grained
+120,57.0,,19.4,39.810717055349755,,f,,M,,open circle -- fine-grained
+121,57.0,,19.4,87.09635899560807,,f,,M,,open circle -- fine-grained
+122,57.0,,19.7,0.30199517204020154,,f,,M,,open circle -- fine-grained
+123,57.0,,20.1,25.703957827688647,,f,,M,,open circle -- fine-grained
+124,57.0,,20.3,3.9810717055349727,,f,,M,,open circle -- fine-grained
+125,57.0,,20.5,5.011872336272723,,f,,M,,open circle -- fine-grained
+126,57.0,,20.9,31.622776601683803,,f,,M,,open circle -- fine-grained
+127,57.0,,21.3,6.02559586074358,,f,,M,,open circle -- fine-grained
+128,57.0,,21.4,15.488166189124817,,f,,M,,open circle -- fine-grained
+129,57.0,,21.5,354.81338923357566,,f,,M,,open circle -- fine-grained
+130,57.0,,21.5,28.183829312644548,,f,,M,,open circle -- fine-grained
+131,57.0,,21.8,12.302687708123818,,f,,M,,open circle -- fine-grained
+132,57.0,,21.9,3.801893963205612,,f,,M,,open circle -- fine-grained
+133,57.0,,22.1,630.9573444801932,,f,,M,,open circle -- fine-grained
+134,57.0,,22.2,77.62471166286922,,f,,M,,open circle -- fine-grained
+135,57.0,,22.4,70.79457843841386,,f,,M,,open circle -- fine-grained
+136,57.0,,22.5,19.498445997580465,,f,,M,,open circle -- fine-grained
+137,57.0,,22.5,0.1,,f,,M,,open circle -- fine-grained
+138,57.0,,22.6,79.4328234724282,,f,,M,,open circle -- fine-grained
+139,57.0,,22.6,17.782794100389236,,f,,M,,open circle -- fine-grained
+140,57.0,,22.7,10.232929922807543,,f,,M,,open circle -- fine-grained
+141,57.0,,22.8,6.309573444801934,,f,,M,,open circle -- fine-grained
+142,57.0,,22.9,245.4708915685033,,f,,M,,open circle -- fine-grained
+143,57.0,,23,281.83829312644554,,f,,M,,open circle -- fine-grained
+144,57.0,,23.1,17.782794100389236,,f,,M,,open circle -- fine-grained
+145,57.0,,23.5,30.199517204020164,,f,,M,,open circle -- fine-grained
+146,57.0,,23.55,512.8613839913652,,f,,M,,open circle -- fine-grained
+147,57.0,,23.6,13.489628825916535,,f,,M,,open circle -- fine-grained
+148,57.0,,23.9,162.18100973589304,,f,,M,,open circle -- fine-grained
+149,57.0,,24.1,107.15193052376065,,f,,M,,open circle -- fine-grained
+150,57.0,,24.3,208.92961308540396,,f,,M,,open circle -- fine-grained
+151,57.0,,24.5,288.4031503126607,,f,,M,,open circle -- fine-grained
+152,57.0,,24.5,51.28613839913649,,f,,M,,open circle -- fine-grained
+153,57.0,,24.7,125.89254117941677,,f,,M,,open circle -- fine-grained
+154,57.0,,25.1,33.88441561392027,,f,,M,,open circle -- fine-grained
+155,57.0,,25.6,47.863009232263856,,f,,M,,open circle -- fine-grained
+156,57.0,,25.8,34.67368504525318,,f,,M,,open circle -- fine-grained
+157,57.0,,25.8,51.28613839913649,,f,,M,,open circle -- fine-grained
+158,57.0,,25.9,104.71285480508998,,f,,M,,open circle -- fine-grained
+159,57.0,,27.9,371.53522909717265,,f,,M,,open circle -- fine-grained
+160,57.0,,2.5,0.01,,vf,,M,,closed circle -- very fine-grained
+161,57.0,,3.8,0.010471285480508989,,vf,,M,,closed circle -- very fine-grained
+162,57.0,,3.8,0.01,,vf,,M,,closed circle -- very fine-grained
+163,57.0,,3.95,0.019952623149688792,,vf,,M,,closed circle -- very fine-grained
+164,57.0,,4.5,0.01,,vf,,M,,closed circle -- very fine-grained
+165,57.0,,5.6,0.01,,vf,,M,,closed circle -- very fine-grained
+166,57.0,,7,0.10351421666793434,,vf,,M,,closed circle -- very fine-grained
+167,57.0,,7.1,0.11220184543019632,,vf,,M,,closed circle -- very fine-grained
+168,57.0,,7.5,0.01,,vf,,M,,closed circle -- very fine-grained
+169,57.0,,8.4,0.22387211385683392,,vf,,M,,closed circle -- very fine-grained
+170,57.0,,8.8,0.01,,vf,,M,,closed circle -- very fine-grained
+171,57.0,,9.9,0.01,,vf,,M,,closed circle -- very fine-grained
+172,57.0,,10.2,0.09120108393559094,,vf,,M,,closed circle -- very fine-grained
+173,57.0,,10.9,0.09120108393559094,,vf,,M,,closed circle -- very fine-grained
+174,57.0,,11.1,0.09120108393559094,,vf,,M,,closed circle -- very fine-grained
+175,57.0,,11.5,0.09120108393559094,,vf,,M,,closed circle -- very fine-grained
+176,57.0,,11.5,0.01,,vf,,M,,closed circle -- very fine-grained
+177,57.0,,12.7,0.09549925860214356,,vf,,M,,closed circle -- very fine-grained
+178,57.0,,12.85,0.19952623149688795,,vf,,M,,closed circle -- very fine-grained
+179,57.0,,13,0.17782794100389224,,vf,,M,,closed circle -- very fine-grained
+180,57.0,,13.1,0.08912509381337454,,vf,,M,,closed circle -- very fine-grained
+181,57.0,,15.5,0.19952623149688795,,vf,,M,,closed circle -- very fine-grained

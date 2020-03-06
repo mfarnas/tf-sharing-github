@@ -1,0 +1,62 @@
+,DATASET,ID,PORO,PERM,GRAINSIZE,GRAINSIZE.1,EOD,EOD_NMT,Unnamed: 8,GRAINSIZE_ORI
+0,,,(%),(md),(mm),categ,,,,categ
+1,41.0,,12.6,3.9810717055349727,,f,deltaic channel or point bar,NM,,f gr ss
+2,41.0,,14.9,39.810717055349755,,f,deltaic channel or point bar,NM,,f gr ss
+3,41.0,,11,17.782794100389236,,f,deltaic channel or point bar,NM,,f gr ss
+4,41.0,,8.6,1.9952623149688797,,f,deltaic channel or point bar,NM,,f gr ss
+5,41.0,,14,50.11872336272724,,f,deltaic channel or point bar,NM,,f gr ss
+6,41.0,,13,25.1188643150958,,f,deltaic channel or point bar,NM,,f gr ss
+7,41.0,,16,158.48931924611153,,f,deltaic channel or point bar,NM,,f gr ss
+8,41.0,,16,158.48931924611153,,f,deltaic channel or point bar,NM,,f gr ss
+9,41.0,,15.8,125.89254117941677,,f,deltaic channel or point bar,NM,,f gr ss
+10,41.0,,14.5,63.095734448019364,,f,deltaic channel or point bar,NM,,f gr ss
+11,41.0,,2,0.03981071705534973,,f,deltaic channel or point bar,NM,,f gr ss
+12,41.0,,14,39.810717055349755,,f,deltaic channel or point bar,NM,,f gr ss
+13,41.0,,14.5,50.11872336272724,,f,deltaic channel or point bar,NM,,f gr ss
+14,41.0,,13,31.622776601683803,,f,deltaic channel or point bar,NM,,f gr ss
+15,41.0,,14.9,63.095734448019364,,f,deltaic channel or point bar,NM,,f gr ss
+16,41.0,,3.5,0.03981071705534973,,f,deltaic channel or point bar,NM,,f gr ss
+17,41.0,,12.3,17.782794100389236,,f,deltaic channel or point bar,NM,,f gr ss
+18,41.0,,17.2,199.52623149688802,,f,deltaic channel or point bar,NM,,f gr ss
+19,41.0,,13.5,100,,f,deltaic channel or point bar,NM,,f gr ss
+20,41.0,,15.1,89.12509381337456,,f,deltaic channel or point bar,NM,,f gr ss
+21,41.0,,15,100,,f,deltaic channel or point bar,NM,,f gr ss
+22,41.0,,17,316.22776601683825,,f,deltaic channel or point bar,NM,,f gr ss
+23,41.0,,18,251.18864315095806,,f,deltaic channel or point bar,NM,,f gr ss
+24,41.0,,18,316.22776601683825,,f,deltaic channel or point bar,NM,,f gr ss
+25,41.0,,13.2,25.1188643150958,,f,deltaic channel or point bar,NM,,f gr ss
+26,41.0,,16,316.22776601683825,,f,deltaic channel or point bar,NM,,f gr ss
+27,41.0,,16,199.52623149688802,,f,deltaic channel or point bar,NM,,f gr ss
+28,41.0,,12.5,31.622776601683803,,f,deltaic channel or point bar,NM,,f gr ss
+29,41.0,,8.2,1.4125375446227544,,f,deltaic channel or point bar,NM,,f gr ss
+30,41.0,,13.9,28.183829312644548,,f,deltaic channel or point bar,NM,,f gr ss
+31,41.0,,16.5,158.48931924611153,,f,deltaic channel or point bar,NM,,f gr ss
+32,41.0,,14.3,44.668359215096324,,f,deltaic channel or point bar,NM,,f gr ss
+33,41.0,,16.4,100,,f,deltaic channel or point bar,NM,,f gr ss
+34,41.0,,2.8,0.056234132519034884,,f,deltaic channel or point bar,NM,,f gr ss
+35,41.0,,16,100,,f,deltaic channel or point bar,NM,,f gr ss
+36,41.0,,12.9,17.782794100389236,,f,deltaic channel or point bar,NM,,f gr ss
+37,41.0,,13.2,15.848931924611136,,f,deltaic channel or point bar,NM,,f gr ss
+38,41.0,,9.5,1.5848931924611136,,f,deltaic channel or point bar,NM,,f gr ss
+39,41.0,,7.9,0.6309573444801932,,f,deltaic channel or point bar,NM,,f gr ss
+40,41.0,,4,0.11220184543019632,,f,deltaic channel or point bar,NM,,f gr ss
+41,41.0,,13.2,7.0794578438413795,,f,deltaic channel or point bar,NM,,f gr ss
+42,41.0,,17,112.20184543019634,,f,deltaic channel or point bar,NM,,f gr ss
+43,41.0,,13.9,89.12509381337456,,f,deltaic channel or point bar,NM,,f gr ss
+44,41.0,,,,,,,NM,,
+45,41.0,,10.5,0.3981071705534972,,vf,deltaic channel or point bar,NM,,vf gr ss
+46,41.0,,11.1,3.1622776601683795,,vf,deltaic channel or point bar,NM,,vf gr ss
+47,41.0,,12.9,3.1622776601683795,,vf,deltaic channel or point bar,NM,,vf gr ss
+48,41.0,,,,,,,NM,,
+49,41.0,,0.4,0.03981071705534973,,silt,delta plain,NM,,sltst
+50,41.0,,7.9,0.15848931924611132,,silt,delta plain,NM,,sltst
+51,41.0,,,,,,,NM,,
+52,41.0,,1.2,0.03981071705534973,,vf,marine shoal,M,,vf gr ss
+53,41.0,,1.1,0.06309573444801932,,vf,marine shoal,M,,vf gr ss
+54,41.0,,1.3,0.03981071705534973,,vf,marine shoal,M,,vf gr ss
+55,41.0,,5,0.11220184543019632,,vf,marine shoal,M,,vf gr ss
+56,41.0,,2,0.12589254117941667,,vf,marine shoal,M,,vf gr ss
+57,41.0,,5.1,0.11220184543019632,,vf,marine shoal,M,,vf gr ss
+58,41.0,,8,0.12589254117941667,,vf,marine shoal,M,,vf gr ss
+59,41.0,,,,,,,M,,
+60,41.0,,1.2,0.03981071705534973,,silt,marine shoal,M,,sltst

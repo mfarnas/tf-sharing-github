@@ -1,0 +1,80 @@
+,DATASET,ID,PORO,PERM,GRAINSIZE,GRAINSIZE.1,EOD,EOD_NMT
+0,,,(%),(md),(mm),categ,,
+1,39.0,,11.4,1.9498445997580454,,,marine -- square symbols,M
+2,39.0,,13.1,1.5135612484362082,,,marine -- square symbols,M
+3,39.0,,11,10,,,marine -- square symbols,M
+4,39.0,,13.3,30.90295432513592,,,marine -- square symbols,M
+5,39.0,,14.3,234.42288153199232,,,marine -- square symbols,M
+6,39.0,,14.5,234.42288153199232,,,marine -- square symbols,M
+7,39.0,,5.5,0.20892961308540392,,,dune -- triangle symbol,NM
+8,39.0,,6.5,0.251188643150958,,,dune -- triangle symbol,NM
+9,39.0,,6.6,0.38904514499428056,,,dune -- triangle symbol,NM
+10,39.0,,6.6,0.7079457843841379,,,dune -- triangle symbol,NM
+11,39.0,,7.4,0.457088189614875,,,dune -- triangle symbol,NM
+12,39.0,,8.5,0.7079457843841379,,,dune -- triangle symbol,NM
+13,39.0,,8.8,0.6309573444801932,,,dune -- triangle symbol,NM
+14,39.0,,9.2,0.6918309709189365,,,dune -- triangle symbol,NM
+15,39.0,,9.3,0.8912509381337455,,,dune -- triangle symbol,NM
+16,39.0,,9.1,1,,,dune -- triangle symbol,NM
+17,39.0,,10,0.17782794100389224,,,dune -- triangle symbol,NM
+18,39.0,,10.2,0.245470891568503,,,dune -- triangle symbol,NM
+19,39.0,,11.3,0.2041737944669529,,,dune -- triangle symbol,NM
+20,39.0,,11,0.38904514499428056,,,dune -- triangle symbol,NM
+21,39.0,,11.9,0.31622776601683794,,,dune -- triangle symbol,NM
+22,39.0,,13,0.31622776601683794,,,dune -- triangle symbol,NM
+23,39.0,,6.9,3.0199517204020165,,,dune -- triangle symbol,NM
+24,39.0,,8.4,2.398832919019491,,,dune -- triangle symbol,NM
+25,39.0,,8.1,3.8904514499428067,,,dune -- triangle symbol,NM
+26,39.0,,8.6,3.3884415613920265,,,dune -- triangle symbol,NM
+27,39.0,,8.6,3.9810717055349727,,,dune -- triangle symbol,NM
+28,39.0,,9.6,3.467368504525317,,,dune -- triangle symbol,NM
+29,39.0,,9.8,2.344228815319922,,,dune -- triangle symbol,NM
+30,39.0,,10,3.1622776601683795,,,dune -- triangle symbol,NM
+31,39.0,,8.7,5.623413251903492,,,dune -- triangle symbol,NM
+32,39.0,,8.3,8.31763771102671,,,dune -- triangle symbol,NM
+33,39.0,,10.3,1,,,dune -- triangle symbol,NM
+34,39.0,,11.2,1.9952623149688797,,,dune -- triangle symbol,NM
+35,39.0,,11.5,2.630267991895382,,,dune -- triangle symbol,NM
+36,39.0,,13,3.1622776601683795,,,dune -- triangle symbol,NM
+37,39.0,,10.9,4.168693834703355,,,dune -- triangle symbol,NM
+38,39.0,,11.9,4.466835921509632,,,dune -- triangle symbol,NM
+39,39.0,,10.5,6.309573444801934,,,dune -- triangle symbol,NM
+40,39.0,,11.65,6.918309709189367,,,dune -- triangle symbol,NM
+41,39.0,,11.7,6.918309709189367,,,dune -- triangle symbol,NM
+42,39.0,,11.7,8.128305161640993,,,dune -- triangle symbol,NM
+43,39.0,,14.5,6.309573444801934,,,dune -- triangle symbol,NM
+44,39.0,,14.9,11.220184543019636,,,dune -- triangle symbol,NM
+45,39.0,,16.05,8.912509381337458,,,dune -- triangle symbol,NM
+46,39.0,,16.9,11.220184543019636,,,dune -- triangle symbol,NM
+47,39.0,,8.5,18.19700858609984,,,dune -- triangle symbol,NM
+48,39.0,,11,11.220184543019636,,,dune -- triangle symbol,NM
+49,39.0,,11.7,11.481536214968834,,,dune -- triangle symbol,NM
+50,39.0,,12.8,11.481536214968834,,,dune -- triangle symbol,NM
+51,39.0,,11.2,24.266100950824168,,,dune -- triangle symbol,NM
+52,39.0,,11.4,30.90295432513592,,,dune -- triangle symbol,NM
+53,39.0,,11.65,33.11311214825913,,,dune -- triangle symbol,NM
+54,39.0,,11.7,33.11311214825913,,,dune -- triangle symbol,NM
+55,39.0,,12.6,33.11311214825913,,,dune -- triangle symbol,NM
+56,39.0,,13.2,33.11311214825913,,,dune -- triangle symbol,NM
+57,39.0,,12.7,50.11872336272724,,,dune -- triangle symbol,NM
+58,39.0,,13,61.65950018614826,,,dune -- triangle symbol,NM
+59,39.0,,4.8,0.251188643150958,,,Interdune (wind) -- circle,NM
+60,39.0,,5.6,0.31622776601683794,,,Interdune (wind) -- circle,NM
+61,39.0,,6,0.31622776601683794,,,Interdune (wind) -- circle,NM
+62,39.0,,6.1,0.3548133892335754,,,Interdune (wind) -- circle,NM
+63,39.0,,6.7,0.38018939632056115,,,Interdune (wind) -- circle,NM
+64,39.0,,6.35,0.7762471166286917,,,Interdune (wind) -- circle,NM
+65,39.0,,7.1,1.5667510701081493,,,Interdune (wind) -- circle,NM
+66,39.0,,7.25,1.1220184543019636,,,Interdune (wind) -- circle,NM
+67,39.0,,7.8,1.288249551693134,,,Interdune (wind) -- circle,NM
+68,39.0,,7.2,2.5118864315095806,,,Interdune (wind) -- circle,NM
+69,39.0,,8.6,3.9810717055349727,,,Interdune (wind) -- circle,NM
+70,39.0,,9.15,8.511380382023768,,,Interdune (wind) -- circle,NM
+71,39.0,,5.9,0.12589254117941667,,,Interdune (water) -- plus symbol,NM
+72,39.0,,5.4,0.31622776601683794,,,Interdune (water) -- plus symbol,NM
+73,39.0,,5.6,0.26915348039269155,,,Interdune (water) -- plus symbol,NM
+74,39.0,,6,0.5495408738576245,,,Interdune (water) -- plus symbol,NM
+75,39.0,,6.3,0.4073802778041127,,,Interdune (water) -- plus symbol,NM
+76,39.0,,8.9,0.5011872336272722,,,Interdune (water) -- plus symbol,NM
+77,39.0,,9.6,0.6237348354824193,,,Interdune (water) -- plus symbol,NM
+78,39.0,,11,1.5135612484362082,,,Interdune (water) -- plus symbol,NM
